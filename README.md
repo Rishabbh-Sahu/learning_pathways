@@ -10,5 +10,5 @@ https://ai.googleblog.com/2022/04/formnet-beyond-sequential-modeling-for.html
 - Microsoft’s releases an Extreme model Compression library. It’s all-in-one. 32x reductions in size on BERT and GPT-3
    - GitHub: https://lnkd.in/eA5c5WAx
    - Papers:
-    - https://lnkd.in/eTCMZGNW
-    - https://lnkd.in/ezFcGWnG
+     - https://lnkd.in/eTCMZGNW
+     - https://lnkd.in/ezFcGWnG
