@@ -13,5 +13,6 @@ https://ai.googleblog.com/2022/04/formnet-beyond-sequential-modeling-for.html
      - https://lnkd.in/eTCMZGNW
      - https://lnkd.in/ezFcGWnG
 
-- Find statistical significance while dealing with proportions and have only two choices (2-sample binomial test)
+- Find statistical significance while dealing with proportions (2-sample binomial test): 
     - https://select-statistics.co.uk/calculators/sample-size-calculator-two-proportions/
+        - Note that the above test is valid if the question you are asking have just **two valid answers** i.e. Yes or No
