@@ -1,4 +1,4 @@
-# learning_pathways
+# <p align="center">learning_pathways</p>
 A repository consists of various links which helps understanding a concepts, algorithm etc. 
 
 - FormNet: Beyond Sequential Modeling for Form-Based Document Understanding
