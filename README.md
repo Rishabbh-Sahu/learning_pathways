@@ -25,3 +25,6 @@ https://ai.googleblog.com/2022/04/formnet-beyond-sequential-modeling-for.html
 
 - Lightning :zap: fast forecasting with statistical and econometric models
     - https://github.com/Nixtla/statsforecast
+
+- Explainability for 🤗 Transformers models in 2 lines (For HF models)
+    - https://github.com/cdpierse/transformers-interpret
