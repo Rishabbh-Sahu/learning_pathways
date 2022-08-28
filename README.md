@@ -1,5 +1,5 @@
 # <p align="center">Learning Pathways</p>
-A repository consists of various links which helps understanding a concepts, algorithm etc. 
+A repository consists of various links which helps understand concepts, algorithms etc. 
 
 - FormNet: Beyond Sequential Modeling for Form-Based Document Understanding
 https://ai.googleblog.com/2022/04/formnet-beyond-sequential-modeling-for.html
