@@ -29,3 +29,6 @@ https://ai.googleblog.com/2022/04/formnet-beyond-sequential-modeling-for.html
 - Explainability for 🤗 Transformers models in 2 lines (For HF models)
     - https://github.com/cdpierse/transformers-interpret
     - 3 ways of explaining 🤗 models - https://www.linkedin.com/posts/rajistics_how-to-explain-predictions-from-transformer-activity-6965755799847530496-qPN9?utm_source=linkedin_share&utm_medium=ios_app
+
+- A python library for producing fanciful test data
+    - https://github.com/cube-drone/silly
