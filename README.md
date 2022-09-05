@@ -20,7 +20,7 @@ https://ai.googleblog.com/2022/04/formnet-beyond-sequential-modeling-for.html
 - All about NLP (Resources) 
     https://github.com/ivan-bilan/The-NLP-Pandect
     
-- Pytorch - a curated list of tutorials, papers, projects, communities and more relating to PyTorch
+- Pytorch : a curated list of tutorials, papers, projects, communities and more relating to PyTorch
     - https://github.com/ritchieng/the-incredible-pytorch
 
 - Lightning :zap: fast forecasting with statistical and econometric models
