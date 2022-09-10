@@ -15,7 +15,7 @@ https://ai.googleblog.com/2022/04/formnet-beyond-sequential-modeling-for.html
 
 - Find statistical significance while dealing with proportions (2-sample binomial test): 
     - https://select-statistics.co.uk/calculators/sample-size-calculator-two-proportions/<br>
-    Note that the above test is valid if the question you are asking have just **two valid answers** (e.g., yes or no)
+    Note that the above test is valid if the question you are asking have just **two valid answers** (e.g. yes or no)
         
 - All about NLP (Resources) 
     https://github.com/ivan-bilan/The-NLP-Pandect
