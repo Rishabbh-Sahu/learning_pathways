@@ -32,3 +32,5 @@ https://ai.googleblog.com/2022/04/formnet-beyond-sequential-modeling-for.html
 
 - A python library for producing fanciful test data
     - https://github.com/cube-drone/silly
+    
+- Awesome relation extraction : https://www.linkedin.com/posts/daniel-vila-suero-484b6b45_github-roomyleeawesome-relation-extraction-activity-6975030618577326080-FoET?utm_source=share&utm_medium=member_ios
