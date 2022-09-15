@@ -34,3 +34,6 @@ https://ai.googleblog.com/2022/04/formnet-beyond-sequential-modeling-for.html
     - https://github.com/cube-drone/silly
     
 - Awesome relation extraction : https://www.linkedin.com/posts/daniel-vila-suero-484b6b45_github-roomyleeawesome-relation-extraction-activity-6975030618577326080-FoET?utm_source=share&utm_medium=member_ios
+
+- Focal loss for imbalance data - 
+    - https://www.linkedin.com/posts/asvieira_why-do-tree-based-models-still-outperform-activity-6974682973765812224-stCq?utm_source=share&utm_medium=member_ios
