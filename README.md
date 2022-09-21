@@ -42,3 +42,6 @@ https://ai.googleblog.com/2022/04/formnet-beyond-sequential-modeling-for.html
 - BART PAPER explained
     - https://www.linkedin.com/posts/prakhar21_bart-denoising-sequence-to-sequence-pre-training-activity-6976511079942139904-dhFd?utm_source=share&utm_medium=member_ios
     - Watch paper summary at https://www.youtube.com/watch?v=BGWpNQHIcs4
+    
+- Multi-headed attention
+    - https://www.linkedin.com/posts/sudalairajkumar_deeplearning-activity-6977875090705133568-VCFl?utm_source=share&utm_medium=member_ios 
