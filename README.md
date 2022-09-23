@@ -48,3 +48,6 @@ https://ai.googleblog.com/2022/04/formnet-beyond-sequential-modeling-for.html
 
 - Transforms PDF, Documents and Images into Enriched Structured Data
     - https://github.com/axa-group/Parsr
+    
+- Model calibration
+    - https://www.linkedin.com/posts/prithivirajdamodaran_model-calibration-activity-6976362248097128448-1Vjo?utm_source=share&utm_medium=member_ios
