@@ -46,7 +46,7 @@ https://ai.googleblog.com/2022/04/formnet-beyond-sequential-modeling-for.html
 - Multi-headed attention
     - https://www.linkedin.com/posts/sudalairajkumar_deeplearning-activity-6977875090705133568-VCFl?utm_source=share&utm_medium=member_ios 
 
-- Transforms PDF, Documents and Images into Enriched Structured Data
+- Transforms PDF, documents and images into enriched structured Data
     - https://github.com/axa-group/Parsr
     
 - Model calibration
