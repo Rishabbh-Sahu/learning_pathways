@@ -51,3 +51,6 @@ https://ai.googleblog.com/2022/04/formnet-beyond-sequential-modeling-for.html
     
 - Model calibration
     - https://www.linkedin.com/posts/prithivirajdamodaran_model-calibration-activity-6976362248097128448-1Vjo?utm_source=share&utm_medium=member_ios
+
+- Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object 
+    - https://github.com/google/python-fire
