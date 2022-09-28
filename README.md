@@ -54,3 +54,6 @@ https://ai.googleblog.com/2022/04/formnet-beyond-sequential-modeling-for.html
 
 - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object 
     - https://github.com/google/python-fire
+    
+- HF zero shot learning 
+    - https://m.youtube.com/watch?v=PH_eb1udpew&feature=youtu.be
