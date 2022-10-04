@@ -60,5 +60,5 @@ https://ai.googleblog.com/2022/04/formnet-beyond-sequential-modeling-for.html
     - https://github.com/huggingface/setfit
     - https://www.linkedin.com/posts/prithivirajdamodaran_setfit-now-anyone-can-build-a-few-shot-classifier-activity-6980746111414067200-30rZ?utm_source=share&utm_medium=member_ios
 
-- Timeseries forecasting lib
+- Timeseries forecasting lib - sktime!
     - https://www.linkedin.com/posts/dipanzan_data-machinelearning-datascience-activity-6978023559562485760-gmbr?utm_source=share&utm_medium=member_ios
