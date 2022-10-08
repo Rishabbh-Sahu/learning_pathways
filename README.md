@@ -65,3 +65,7 @@ https://ai.googleblog.com/2022/04/formnet-beyond-sequential-modeling-for.html
 
 - Timeseries forecasting lib - sktime!
     - https://www.linkedin.com/posts/dipanzan_data-machinelearning-datascience-activity-6978023559562485760-gmbr?utm_source=share&utm_medium=member_ios
+ 
+ - Price elasticity model
+    - https://www.linkedin.com/posts/dat-tran-a1602320_building-and-integration-of-a-simple-ml-price-activity-6983665162738139136-MZEK?utm_source=share&utm_medium=member_ios
+    - https://medium.com/priceloop-tech-blog/building-and-integration-of-a-simple-ml-price-optimization-model-into-priceloop-nocode-3f6e444d6207
