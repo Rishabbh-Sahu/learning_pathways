@@ -71,4 +71,4 @@ https://ai.googleblog.com/2022/04/formnet-beyond-sequential-modeling-for.html
     - https://medium.com/priceloop-tech-blog/building-and-integration-of-a-simple-ml-price-optimization-model-into-priceloop-nocode-3f6e444d6207
     
  - Data science datasets 
-    -https://datasciencedojo.com/blog/datasets-data-science-skills/?utm_campaign=DSD%20blogs%202022&utm_content=223545408&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3740012
+    - https://datasciencedojo.com/blog/datasets-data-science-skills/?utm_campaign=DSD%20blogs%202022&utm_content=223545408&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3740012
