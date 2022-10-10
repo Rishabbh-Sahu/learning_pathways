@@ -43,7 +43,7 @@ https://ai.googleblog.com/2022/04/formnet-beyond-sequential-modeling-for.html
     - https://www.linkedin.com/posts/prakhar21_bart-denoising-sequence-to-sequence-pre-training-activity-6976511079942139904-dhFd?utm_source=share&utm_medium=member_ios
     - Watch paper summary at https://www.youtube.com/watch?v=BGWpNQHIcs4
  
-- SetFit paper summary -
+- SetFit paper summary
     - https://m.youtube.com/watch?v=6WBK7XSXJM8
     
 - Multi-headed attention
