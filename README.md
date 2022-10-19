@@ -45,6 +45,7 @@ https://ai.googleblog.com/2022/04/formnet-beyond-sequential-modeling-for.html
  
 - SetFit paper summary
     - https://m.youtube.com/watch?v=6WBK7XSXJM8
+    - SetFit few shot classification: https://www.philschmid.de/getting-started-setfit
     
 - Multi-headed attention
     - https://www.linkedin.com/posts/sudalairajkumar_deeplearning-activity-6977875090705133568-VCFl?utm_source=share&utm_medium=member_ios 
