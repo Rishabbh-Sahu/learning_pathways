@@ -31,6 +31,9 @@ https://ai.googleblog.com/2022/04/formnet-beyond-sequential-modeling-for.html
     - https://github.com/cdpierse/transformers-interpret
     - 3 ways of explaining 🤗(HF) models - https://www.linkedin.com/posts/rajistics_how-to-explain-predictions-from-transformer-activity-6965755799847530496-qPN9?utm_source=linkedin_share&utm_medium=ios_app
 
+- Learn how to explain any black-box model to non-technical people with Bex T's post.
+    - https://www.linkedin.com/posts/towards-data-science_a-complete-shap-tutorial-how-to-explain-activity-6988524164403908608-8n2l?utm_source=share&utm_medium=member_ios
+    
 - A python library for producing fanciful test data
     - https://github.com/cube-drone/silly
     
