@@ -87,3 +87,6 @@ https://ai.googleblog.com/2022/04/formnet-beyond-sequential-modeling-for.html
     
  - TabPFN, a new tabular data classification method (with current limitation of 1000 records)
     - https://www.linkedin.com/posts/frank-hutter-9190b24b_datascience-greenautoml-neurips-activity-6989198881657913345-ww3j?utm_source=share&utm_medium=member_ios
+
+- Graph machine learning Airbnb
+    - https://www.linkedin.com/posts/juliawallin_graph-machine-learning-at-airbnb-activity-6986686098471071744-0k2x?utm_source=share&utm_medium=member_ios
