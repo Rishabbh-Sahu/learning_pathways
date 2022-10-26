@@ -90,3 +90,6 @@ https://ai.googleblog.com/2022/04/formnet-beyond-sequential-modeling-for.html
 
 - Graph machine learning Airbnb
     - https://www.linkedin.com/posts/juliawallin_graph-machine-learning-at-airbnb-activity-6986686098471071744-0k2x?utm_source=share&utm_medium=member_ios
+  
+- A very interesting project from Meta Research - xFormers, a modular and field agnostic library to flexibly generate transformer architectures from interoperable and optimized building blocks.
+    - https://www.linkedin.com/posts/tunguz_datascience-machinelearning-artificialintelligence-activity-6990288659639930880-zfMg?utm_source=share&utm_medium=member_ios
