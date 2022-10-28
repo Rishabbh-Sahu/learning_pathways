@@ -96,5 +96,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 - A very interesting project from Meta Research - xFormers, a modular and field agnostic library to flexibly generate transformer architectures from interoperable and optimized building blocks
     - https://www.linkedin.com/posts/tunguz_datascience-machinelearning-artificialintelligence-activity-6990288659639930880-zfMg?utm_source=share&utm_medium=member_ios
 
-- SPEED up Sentence Transformers upto 8x  and save $ via VoltaML.
+- SPEED up Sentence Transformers upto 8x  and save $ via VoltaML
     - https://www.linkedin.com/posts/prithivirajdamodaran_speed-up-sentence-transformers-upto-8x-and-activity-6991646033948639232-3qkX?utm_source=share&utm_medium=member_ios
+    - https://github.com/VoltaML/voltaML
