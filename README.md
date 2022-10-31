@@ -105,3 +105,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - Logistic regression
     - https://www.linkedin.com/posts/mdarshad_logistic-regression-ugcPost-6990974615275638784-B4h-?utm_source=share&utm_medium=member_ios
+
+- Fraud detection using graph
+    - https://www.linkedin.com/posts/activity-6992785538931957760-hPEg?utm_source=share&utm_medium=member_ios
