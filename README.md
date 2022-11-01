@@ -108,3 +108,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - Fraud detection using graph
     - https://www.linkedin.com/posts/activity-6992785538931957760-hPEg?utm_source=share&utm_medium=member_ios
+
+- **Acceleration:** Planet of SPARSITY - speed up AND save training/inference $
+    - https://www.linkedin.com/posts/prithivirajdamodaran_planet-of-sparsity-speed-up-and-save-training-activity-6993086747928592384-8ikS?utm_source=share&utm_medium=member_ios
