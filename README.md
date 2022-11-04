@@ -112,3 +112,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 - **Acceleration:** Planet of SPARSITY - speed up AND save training/inference $
     - https://www.linkedin.com/posts/prithivirajdamodaran_planet-of-sparsity-speed-up-and-save-training-activity-6993086747928592384-8ikS?utm_source=share&utm_medium=member_ios
     - different techniques to speed up the inference: https://www.linkedin.com/posts/sebastianraschka_i-talked-about-different-techniques-to-speed-activity-6993192240953114624-loNs?utm_source=share&utm_medium=member_ios
+
+- MLOps resources
+    - https://www.linkedin.com/posts/damienbenveniste_machinelearning-mlops-datascience-activity-6993598745867157506-90qh?utm_source=share&utm_medium=member_ios
