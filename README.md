@@ -48,7 +48,7 @@ https://ai.googleblog.com/2022/04/formnet-beyond-sequential-modeling-for.html
  
 - SetFit paper summary
     - https://m.youtube.com/watch?v=6WBK7XSXJM8
-    - https://www.youtube.com/watch?v=8h27lV8v8BU (Efficient Few-Shot Learning with Sentence Transformers)
+    - https://www.youtube.com/watch?v=8h27lV8v8BU (Efficient Few-Shot Learning with Sentence Transformers with different similar model comparison)
     - SetFit few shot classification: https://www.philschmid.de/getting-started-setfit
     
 - Multi-headed attention
