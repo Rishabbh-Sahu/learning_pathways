@@ -119,3 +119,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - Pre-training with quality data
     - https://www.linkedin.com/posts/hanspeterzorn_pretraining-language-models-quality-over-activity-6993843947735252992-thxD?utm_source=share&utm_medium=member_ios
+    
+- Fine-tuning Transformers is UNSTABLE. Why and How to fix it?
+    - https://www.linkedin.com/posts/prithivirajdamodaran_artificialintelligence-machinelearning-transformers-activity-6997079480745762816-1L0U?utm_source=share&utm_medium=member_ios
