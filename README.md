@@ -123,3 +123,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
     
 - Fine-tuning Transformers is UNSTABLE. Why and How to fix it?
     - https://www.linkedin.com/posts/prithivirajdamodaran_artificialintelligence-machinelearning-transformers-activity-6997079480745762816-1L0U?utm_source=share&utm_medium=member_ios
+    
+- Notebooks and colab alternatives
+    - https://www.linkedin.com/posts/ashishpatel2604_data-datascience-machinelearning-activity-6997071480664559616-doXm?utm_source=share&utm_medium=member_ios
