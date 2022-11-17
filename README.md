@@ -127,5 +127,5 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 - Notebooks and colab alternatives
     - https://www.linkedin.com/posts/ashishpatel2604_data-datascience-machinelearning-activity-6997071480664559616-doXm?utm_source=share&utm_medium=member_ios
     
-- image, text, and tabular classifications using Ludwig
+- Image, text, and tabular classifications using Ludwig
     - https://www.linkedin.com/posts/dalianaliu_machinelearning-deeplearning-activity-6998737762879246336-nBSg?utm_source=share&utm_medium=member_ios
