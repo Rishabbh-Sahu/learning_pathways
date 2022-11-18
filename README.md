@@ -130,5 +130,5 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 - Image, text, and tabular classifications using Ludwig
     - https://www.linkedin.com/posts/dalianaliu_machinelearning-deeplearning-activity-6998737762879246336-nBSg?utm_source=share&utm_medium=member_ios
     
-- Free to Access this Machine learning Book that give you practical knowledge
+- Free to access machine learning Book that give you practical knowledge
     - https://www.linkedin.com/posts/ashishpatel2604_datascientists-machinelearning-artificialintelligence-activity-6999235602076299265--Um5?utm_source=share&utm_medium=member_ios
