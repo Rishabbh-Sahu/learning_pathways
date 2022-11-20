@@ -132,3 +132,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
     
 - Free access to machine learning books that give you practical knowledge
     - https://www.linkedin.com/posts/ashishpatel2604_datascientists-machinelearning-artificialintelligence-activity-6999235602076299265--Um5?utm_source=share&utm_medium=member_ios
+
+- PivotTableJS Python
+    - https://www.linkedin.com/posts/avi-chawla_python-datascience-dataanalysis-ugcPost-7000056013911404544-PigM?utm_source=share&utm_medium=member_ios
