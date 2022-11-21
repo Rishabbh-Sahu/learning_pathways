@@ -83,6 +83,9 @@ https://ai.googleblog.com/2022/04/formnet-beyond-sequential-modeling-for.html
 - ML writer :writing_hand:
     - https://medium.com/mlearning-ai/generating-sentences-from-keywords-using-transformers-in-nlp-e89f4de5cf6b
     
+- GPT-3 armed with a Python interpreter
+    - https://www.linkedin.com/posts/eric-vyacheslav-156273169_this-is-incredible-gpt-3-armed-with-a-python-activity-7000105380659773441-3vJF?utm_source=share&utm_medium=member_ios
+    
 - Document AI
     - https://www.linkedin.com/posts/niels-rogge-a3b7a3127_ai-microsoft-artificialintelligence-activity-6986627777626054656-vEJ8?utm_source=share&utm_medium=member_ios
     
