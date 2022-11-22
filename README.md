@@ -138,3 +138,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - PivotTableJS Python
     - https://www.linkedin.com/posts/avi-chawla_python-datascience-dataanalysis-ugcPost-7000056013911404544-PigM?utm_source=share&utm_medium=member_ios
+
+- BERTopic to explore arxiv articles
+    - https://www.linkedin.com/posts/jalammar_code-demo-of-bertopic-bertopic-for-topic-activity-7000449472182767616-TLaR?utm_source=share&utm_medium=member_ios
