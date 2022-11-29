@@ -149,3 +149,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - Detecting drifts
     - https://www.linkedin.com/posts/pranjalyadav_understanding-handling-data-drift-with-ugcPost-7001263463796813824-EbGR?utm_source=share&utm_medium=member_ios
+
+- classification tool for modeling uplift - the incremental impact of a treatment
+    - https://www.linkedin.com/posts/parulpandeyindia_upliftrandomforest-python-r-activity-7003351970648387584-Tsif?utm_source=share&utm_medium=member_ios
