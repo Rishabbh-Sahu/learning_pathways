@@ -154,5 +154,5 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 - Classification tool for modeling uplift - the incremental impact of a treatment
     - https://www.linkedin.com/posts/parulpandeyindia_upliftrandomforest-python-r-activity-7003351970648387584-Tsif?utm_source=share&utm_medium=member_ios
 
-- Transformers for forecasting
+- Transformers for forecasting 
     - https://www.linkedin.com/posts/activity-7004146392323526656-1fOt?utm_source=share&utm_medium=member_ios
