@@ -112,6 +112,7 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - Detecting data drift (How Amazon SageMaker can assist you in detecting data drift using a simple design?)
     - https://www.linkedin.com/posts/smritimishra_technology-dataarchitecture-datascience-activity-6992127674655617024-UwaZ?utm_source=share&utm_medium=member_ios
+    - https://www.linkedin.com/posts/pranjalyadav_understanding-handling-data-drift-with-ugcPost-7001263463796813824-EbGR?utm_source=share&utm_medium=member_ios
 
 - Logistic regression
     - https://www.linkedin.com/posts/mdarshad_logistic-regression-ugcPost-6990974615275638784-B4h-?utm_source=share&utm_medium=member_ios
