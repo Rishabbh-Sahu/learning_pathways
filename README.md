@@ -71,6 +71,7 @@ https://ai.googleblog.com/2022/04/formnet-beyond-sequential-modeling-for.html
 
 - Zero shot IBM
     - https://ibm.github.io/zshot/
+    
 - Timeseries forecasting library - sktime!
     - https://www.linkedin.com/posts/dipanzan_data-machinelearning-datascience-activity-6978023559562485760-gmbr?utm_source=share&utm_medium=member_ios
  
@@ -121,7 +122,7 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
     - https://www.linkedin.com/posts/activity-6992785538931957760-hPEg?utm_source=share&utm_medium=member_ios
     - https://www.linkedin.com/posts/activity-6992186970827333633-vDKh?utm_source=share&utm_medium=member_ios
 
-- **Acceleration:** Planet of SPARSITY - speed up AND save training/inference $
+- **Acceleration:** Planet of SPARSITY, speed up AND save training/inference $
     - https://www.linkedin.com/posts/prithivirajdamodaran_planet-of-sparsity-speed-up-and-save-training-activity-6993086747928592384-8ikS?utm_source=share&utm_medium=member_ios
     - different techniques to speed up the inference: https://www.linkedin.com/posts/sebastianraschka_i-talked-about-different-techniques-to-speed-activity-6993192240953114624-loNs?utm_source=share&utm_medium=member_ios
 
