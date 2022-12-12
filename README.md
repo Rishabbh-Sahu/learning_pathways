@@ -155,3 +155,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - Transformers for forecasting 
     - https://www.linkedin.com/posts/activity-7004146392323526656-1fOt?utm_source=share&utm_medium=member_ios
+
+- Why Graph Algorithms & Graph Neural Networks for RecSys
+    - https://www.linkedin.com/posts/activity-7005832760263077888-VlpP?utm_source=share&utm_medium=member_ios
