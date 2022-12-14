@@ -51,6 +51,7 @@ https://ai.googleblog.com/2022/04/formnet-beyond-sequential-modeling-for.html
     - https://m.youtube.com/watch?v=6WBK7XSXJM8
     - https://www.youtube.com/watch?v=8h27lV8v8BU (Efficient Few-Shot Learning with Sentence Transformers and different similar model comparison)
     - SetFit few shot classification: https://www.philschmid.de/getting-started-setfit
+    - Compress models with knowledge distillation<br> https://www.linkedin.com/posts/huggingface_join-researchers-from-hugging-face-and-intel-activity-7005912068369301504-0IRp?utm_source=share&utm_medium=member_ios
     
 - Multi-headed attention
     - https://www.linkedin.com/posts/sudalairajkumar_deeplearning-activity-6977875090705133568-VCFl?utm_source=share&utm_medium=member_ios 
