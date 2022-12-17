@@ -162,3 +162,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
     
 - Math for Machine Learning and Data Science
     - https://www.linkedin.com/posts/andrewyng_mathematics-for-machine-learning-and-data-activity-7008888767176474624-t002?utm_source=share&utm_medium=member_ios
+
+- Ranking problem
+    - https://www.linkedin.com/posts/amarchin_how-to-optimise-rankings-with-cascade-bandits-activity-7009268040764653568-ctRb?utm_source=share&utm_medium=member_ios
