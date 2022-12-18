@@ -165,3 +165,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - Ranking problem
     - https://www.linkedin.com/posts/amarchin_how-to-optimise-rankings-with-cascade-bandits-activity-7009268040764653568-ctRb?utm_source=share&utm_medium=member_ios
+    
+- Awesome Machine Learning cheatsheets from Stanford's CS 229
+    - https://www.linkedin.com/posts/stevenouri_artificialintelligence-datascience-machinelearning-activity-7009452208509304832-i013?utm_source=share&utm_medium=member_ios
