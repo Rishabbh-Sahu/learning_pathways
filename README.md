@@ -168,3 +168,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
     
 - Awesome Machine Learning cheatsheets from Stanford's CS 229
     - https://www.linkedin.com/posts/stevenouri_artificialintelligence-datascience-machinelearning-activity-7009452208509304832-i013?utm_source=share&utm_medium=member_ios
+
+- 𝗥𝗲𝗮𝗹 𝗧𝗶𝗺𝗲 𝗦𝗲𝗮𝗿𝗰𝗵 𝗼𝗿 𝗥𝗲𝗰𝗼𝗺𝗺𝗲𝗻𝗱𝗲𝗿 𝗦𝘆𝘀𝘁𝗲𝗺 𝗗𝗲𝘀𝗶𝗴𝗻 𝗹𝗼𝗼𝗸 𝗹𝗶𝗸𝗲?
+    - https://www.linkedin.com/posts/aurimas-griciunas_mlops-machinelearning-dataengineering-activity-7009454191613984768-FvsI?utm_source=share&utm_medium=member_ios
