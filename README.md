@@ -171,3 +171,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - Real time search or recommender system design look like?
     - https://www.linkedin.com/posts/aurimas-griciunas_mlops-machinelearning-dataengineering-activity-7009454191613984768-FvsI?utm_source=share&utm_medium=member_ios
+
+- Finding similar users - Approximate Nearest Neighbor Search comes
+    - https://www.linkedin.com/posts/mungoliabhishek81_datascience-machinelearning-statistics-activity-7010446713039597568-zC8W?utm_source=share&utm_medium=member_ios
