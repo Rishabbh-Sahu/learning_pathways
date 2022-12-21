@@ -174,3 +174,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - Finding similar users - Approximate Nearest Neighbor Search
     - https://www.linkedin.com/posts/mungoliabhishek81_datascience-machinelearning-statistics-activity-7010446713039597568-zC8W?utm_source=share&utm_medium=member_ios
+
+- TOP 5 Linear Regression Models
+    - https://www.linkedin.com/feed/update/urn:li:activity:7010588147357036544?utm_source=share&utm_medium=member_ios
