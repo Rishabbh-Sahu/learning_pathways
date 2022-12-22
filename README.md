@@ -162,15 +162,9 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
  
 - Bandit-approach for our recommender system
     - https://www.linkedin.com/posts/mirza-klimenta-phd-823398249_multi-armed-bandits-in-python-epsilon-greedy-activity-7009909807558074368-5m_a?utm_source=share&utm_medium=member_ios
-    
-- Math for Machine Learning and Data Science
-    - https://www.linkedin.com/posts/andrewyng_mathematics-for-machine-learning-and-data-activity-7008888767176474624-t002?utm_source=share&utm_medium=member_ios
 
 - Ranking problem
     - https://www.linkedin.com/posts/amarchin_how-to-optimise-rankings-with-cascade-bandits-activity-7009268040764653568-ctRb?utm_source=share&utm_medium=member_ios
-    
-- Awesome Machine Learning cheatsheets from Stanford's CS 229
-    - https://www.linkedin.com/posts/stevenouri_artificialintelligence-datascience-machinelearning-activity-7009452208509304832-i013?utm_source=share&utm_medium=member_ios
 
 - Real time search or recommender system design look like?
     - https://www.linkedin.com/posts/aurimas-griciunas_mlops-machinelearning-dataengineering-activity-7009454191613984768-FvsI?utm_source=share&utm_medium=member_ios
@@ -180,3 +174,9 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - TOP 5 Linear Regression Models
     - https://www.linkedin.com/feed/update/urn:li:activity:7010588147357036544?utm_source=share&utm_medium=member_ios
+
+- Math for Machine Learning and Data Science
+    - https://www.linkedin.com/posts/andrewyng_mathematics-for-machine-learning-and-data-activity-7008888767176474624-t002?utm_source=share&utm_medium=member_ios
+
+- Awesome Machine Learning cheatsheets from Stanford's CS 229
+    - https://www.linkedin.com/posts/stevenouri_artificialintelligence-datascience-machinelearning-activity-7009452208509304832-i013?utm_source=share&utm_medium=member_ios
