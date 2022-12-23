@@ -180,3 +180,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - Awesome Machine Learning cheatsheets from Stanford's CS 229
     - https://www.linkedin.com/posts/stevenouri_artificialintelligence-datascience-machinelearning-activity-7009452208509304832-i013?utm_source=share&utm_medium=member_ios
+
+- What is a 𝗙𝗲𝗮𝘁𝘂𝗿𝗲 𝗦𝘁𝗼𝗿𝗲 and why is it such an important element in 𝗠𝗟𝗢𝗽𝘀 𝗦𝘁𝗮𝗰𝗸?
+    - https://www.linkedin.com/posts/aurimas-griciunas_mlops-machinelearning-dataengineering-activity-7011598540757966848-Ue3C?utm_source=share&utm_medium=member_ios
