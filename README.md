@@ -183,3 +183,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - What is a Feature Store and why is it such an important element in 𝗠𝗟𝗢𝗽𝘀 𝗦𝘁𝗮𝗰𝗸?
     - https://www.linkedin.com/posts/aurimas-griciunas_mlops-machinelearning-dataengineering-activity-7011598540757966848-Ue3C?utm_source=share&utm_medium=member_ios
+
+- Positional embedding
+    - https://www.linkedin.com/posts/hanspeterzorn_positional-encoding-everything-you-need-activity-7015573995265613824-sbwT?utm_source=share&utm_medium=member_ios
