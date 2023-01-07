@@ -186,3 +186,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - Positional embedding
     - https://www.linkedin.com/posts/hanspeterzorn_positional-encoding-everything-you-need-activity-7015573995265613824-sbwT?utm_source=share&utm_medium=member_ios
+
+- ManimML - python library to visualize the working of neural networks.
+    - https://www.linkedin.com/feed/update/urn:li:activity:7017080242016014336?utm_source=share&utm_medium=member_ios
