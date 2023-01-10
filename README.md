@@ -189,3 +189,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - ManimML - python library to visualize the working of neural networks.
     - https://www.linkedin.com/feed/update/urn:li:activity:7017080242016014336?utm_source=share&utm_medium=member_ios
+
+- The v0.13 release of BERTopic! :tada:
+    - https://www.linkedin.com/feed/update/urn:li:activity:7016424071647121408?utm_source=share&utm_medium=member_ios
