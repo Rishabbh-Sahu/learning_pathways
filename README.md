@@ -192,3 +192,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - The v0.13 release of BERTopic! :tada:
     - https://www.linkedin.com/feed/update/urn:li:activity:7016424071647121408?utm_source=share&utm_medium=member_ios
+
+- Top2Vec
+    - https://www.linkedin.com/posts/eric-vyacheslav-156273169_top2vec-is-an-awesome-algorithm-and-repo-activity-7018169591772147712-awnU?utm_source=share&utm_medium=member_ios
