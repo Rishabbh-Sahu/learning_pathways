@@ -198,3 +198,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
     
 - Lasso and ridge
     - https://www.linkedin.com/posts/venkat-raman-analytics_lasso-ridge-everything-you-wanted-to-activity-7018446743298088960-3TkL?utm_source=share&utm_medium=member_ios
+
+- 5 𝗙𝗥𝗘𝗘 courses
+    - https://www.linkedin.com/posts/danleedata_stanford-cs229-machine-learning-course-activity-7018238830587572224-y2C2?utm_source=share&utm_medium=member_ios
