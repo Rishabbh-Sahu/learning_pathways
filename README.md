@@ -196,7 +196,7 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 - Top2Vec
     - https://www.linkedin.com/posts/eric-vyacheslav-156273169_top2vec-is-an-awesome-algorithm-and-repo-activity-7018169591772147712-awnU?utm_source=share&utm_medium=member_ios
     
-- Lasso and ridge
+- Lasso & Ridge
     - https://www.linkedin.com/posts/venkat-raman-analytics_lasso-ridge-everything-you-wanted-to-activity-7018446743298088960-3TkL?utm_source=share&utm_medium=member_ios
 
 - 5 𝗙𝗥𝗘𝗘 courses
