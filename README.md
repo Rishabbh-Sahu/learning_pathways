@@ -204,3 +204,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - List of resources
     - https://www.linkedin.com/posts/thinam-tamang_machinelearning-deeplearning-mlops-activity-7017873926982701057-J_5S?utm_source=share&utm_medium=member_ios
+
+- Research studying the effect of pruning on the generalization performance
+    - https://www.linkedin.com/posts/sebastianraschka_research-deeplearningai-machinelearning-activity-7019325352917295107-PfTc?utm_source=share&utm_medium=member_ios
