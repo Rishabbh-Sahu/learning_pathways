@@ -207,3 +207,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - Research studying the effect of pruning on the generalization performance
     - https://www.linkedin.com/posts/sebastianraschka_research-deeplearningai-machinelearning-activity-7019325352917295107-PfTc?utm_source=share&utm_medium=member_ios
+
+- Let's build GPT from scratch
+    - https://www.linkedin.com/posts/sudalairajkumar_lets-build-gpt-from-scratch-in-code-spelled-activity-7021322858660335619-pFoX?utm_source=share&utm_medium=member_ios
