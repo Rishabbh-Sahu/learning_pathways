@@ -221,5 +221,5 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 - 𝐒𝐲𝐬𝐭𝐞𝐦 𝐃𝐞𝐬𝐢𝐠𝐧 𝐆𝐨𝐥𝐝𝐦𝐢𝐧𝐞
     - https://www.linkedin.com/posts/madhavvarjuntthukral-b41564183_systemdesign-design-hld-activity-7022468592549904384-uYfQ?utm_source=share&utm_medium=member_ios
     
-- 30 Python Libraries to (Hugely) Boost Your Data Science Productivity :rocket:
+- 30 Python Libraries to Boost Your Data Science Productivity :rocket:
     - https://www.linkedin.com/posts/avi-chawla_boost-your-data-science-productivity-activity-7020700472416026624-_PHM?utm_source=share&utm_medium=member_ios
