@@ -218,7 +218,7 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 - Why does Deep Learning fail on tabular data?
     - https://www.linkedin.com/posts/dusan-stamenkovic-457074179_datascience-data-neuralnetworks-activity-7021473058628452352-ayFJ?utm_source=share&utm_medium=member_ios
 
-- 𝐒𝐲𝐬𝐭𝐞𝐦 𝐃𝐞𝐬𝐢𝐠𝐧 𝐆𝐨𝐥𝐝𝐦𝐢𝐧𝐞
+- System design goldmine
     - https://www.linkedin.com/posts/madhavvarjuntthukral-b41564183_systemdesign-design-hld-activity-7022468592549904384-uYfQ?utm_source=share&utm_medium=member_ios
     
 - 30 Python Libraries to Boost Your Data Science Productivity :rocket:
