@@ -227,3 +227,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - Microsoft recommender using transformer
     - https://github.com/microsoft/recommenders
+
+- Learn to DEPLOY your Machine Learning models!
+    - https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7026228560910573569-70AS?utm_source=share&utm_medium=member_ios
