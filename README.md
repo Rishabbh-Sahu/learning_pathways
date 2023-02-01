@@ -230,3 +230,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - Learn to DEPLOY your Machine Learning models!
     - https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7026228560910573569-70AS?utm_source=share&utm_medium=member_ios
+
+- #Promptify, a library that allows for the use of #LLMs to solve #NLP problems, including #NamedEntity Recognition, #Binary Classification, #MultiLabel Classification, and Question-Answering and return a python object
+    - https://www.linkedin.com/posts/aadityaura_prompt-gpt-opensource-activity-7024485145256591360-etIo?utm_source=share&utm_medium=member_ios
