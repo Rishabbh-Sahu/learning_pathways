@@ -206,7 +206,7 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 - 5 FREE courses
     - https://www.linkedin.com/posts/danleedata_stanford-cs229-machine-learning-course-activity-7018238830587572224-y2C2?utm_source=share&utm_medium=member_ios
 
-- List of resources
+- List of resources (ML/DL)
     - https://www.linkedin.com/posts/thinam-tamang_machinelearning-deeplearning-mlops-activity-7017873926982701057-J_5S?utm_source=share&utm_medium=member_ios
 
 - Research studying the effect of pruning on the generalization performance
