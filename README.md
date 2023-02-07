@@ -235,3 +235,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - Promptify, a library that allows for the use of #LLMs to solve #NLP problems, including #NamedEntity Recognition, #Binary Classification, #MultiLabel Classification, and Question-Answering and return a python object
     - https://www.linkedin.com/posts/aadityaura_prompt-gpt-opensource-activity-7024485145256591360-etIo?utm_source=share&utm_medium=member_ios
+
+- AB testing
+    - https://www.linkedin.com/posts/danleedata_ab-testing-in-data-science-interviews-by-activity-7027674504340373504-Y6Hz?utm_source=share&utm_medium=member_ios
