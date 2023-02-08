@@ -33,6 +33,7 @@ https://ai.googleblog.com/2022/04/formnet-beyond-sequential-modeling-for.html
     - 𝐌𝐋 𝐄𝐱𝐩𝐥𝐚𝐢𝐧𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐒𝐭𝐚𝐧𝐟𝐨𝐫𝐝 𝐰𝐨𝐫𝐤𝐬𝐡𝐨𝐩 - https://www.linkedin.com/posts/rami-krispin_machinelearning-ml-deeplearning-activity-7001184169494032384-k15M?utm_source=share&utm_medium=member_ios
     - A guide for making black box model explainable - https://www.linkedin.com/posts/christoph-molnar_interpretable-machine-learning-activity-7021025855199961088-r_gs?utm_source=share&utm_medium=member_ios
 
+
 - Learn how to explain any black-box model to non-technical people with Bex T's post.
     - https://www.linkedin.com/posts/towards-data-science_a-complete-shap-tutorial-how-to-explain-activity-6988524164403908608-8n2l?utm_source=share&utm_medium=member_ios
     
@@ -238,3 +239,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - AB testing
     - https://www.linkedin.com/posts/danleedata_ab-testing-in-data-science-interviews-by-activity-7027674504340373504-Y6Hz?utm_source=share&utm_medium=member_ios
+
+- SHAP-hypetune is a python package for simultaneous Hyperparameters Tuning and Features Selection for Gradient Boosting Models!
+    - https://www.linkedin.com/posts/eric-vyacheslav-156273169_shap-hypetune-is-a-python-package-for-simultaneous-activity-7028014478805876736-EcHJ?utm_source=share&utm_medium=member_ios
