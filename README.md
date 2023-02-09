@@ -216,6 +216,7 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 - Let's build GPT from scratch
     - https://www.linkedin.com/posts/sudalairajkumar_lets-build-gpt-from-scratch-in-code-spelled-activity-7021322858660335619-pFoX?utm_source=share&utm_medium=member_ios
     - How to train ChatGPT - https://www.linkedin.com/feed/update/urn:li:activity:7024476262949625857?utm_source=share&utm_medium=member_ios
+    - Code Self attention from scratch - https://www.linkedin.com/posts/sebastianraschka_understanding-the-self-attention-mechanism-activity-7029471702736637952-q2nf?utm_source=share&utm_medium=member_ios
 
 - Why does Deep Learning fail on tabular data?
     - https://www.linkedin.com/posts/dusan-stamenkovic-457074179_datascience-data-neuralnetworks-activity-7021473058628452352-ayFJ?utm_source=share&utm_medium=member_ios
