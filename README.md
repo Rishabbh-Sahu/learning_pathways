@@ -246,3 +246,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - SHAP-hypetune is a python package for simultaneous Hyperparameters Tuning and Features Selection for Gradient Boosting Models!
     - https://www.linkedin.com/posts/eric-vyacheslav-156273169_shap-hypetune-is-a-python-package-for-simultaneous-activity-7028014478805876736-EcHJ?utm_source=share&utm_medium=member_ios
+    
+- Machine Learning model LOSS functions
+    - https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7028762585705451520-iqtz?utm_source=share&utm_medium=member_ios
