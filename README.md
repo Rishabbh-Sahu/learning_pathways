@@ -109,6 +109,9 @@ https://ai.googleblog.com/2022/04/formnet-beyond-sequential-modeling-for.html
     - Link Predictions = Binary Classification of node pairs <br>
 https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gds-explained-activity-6990309425802526720-I72R?utm_source=share&utm_medium=member_ios
   
+- Python Notebook with simple question answering with Knowledge Graph and Transformer.
+    - https://www.linkedin.com/posts/nikita-iserson_naturallanguageprocessing-llm-chatgpt-activity-7032269766832615424-nc9C?utm_source=share&utm_medium=member_ios
+
 - A very interesting project from Meta Research - xFormers, a modular and field agnostic library to flexibly generate transformer architectures from interoperable and optimized building blocks
     - https://www.linkedin.com/posts/tunguz_datascience-machinelearning-artificialintelligence-activity-6990288659639930880-zfMg?utm_source=share&utm_medium=member_ios
 
