@@ -257,5 +257,5 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 - Machine Learning model LOSS functions
     - https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7028762585705451520-iqtz?utm_source=share&utm_medium=member_ios
     
-- Inefficient Python programs will degrade your data pipeline performance
+- [Data engineering] Inefficient Python programs will degrade your data pipeline performance
     - https://www.linkedin.com/posts/sarah-floris_dataengineering-dataengineer-python-activity-7033462088442253312-K8ZX?utm_source=share&utm_medium=member_ios
