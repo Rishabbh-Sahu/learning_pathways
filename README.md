@@ -86,6 +86,7 @@ https://ai.googleblog.com/2022/04/formnet-beyond-sequential-modeling-for.html
     
  - Data science datasets 
     - https://datasciencedojo.com/blog/datasets-data-science-skills/?utm_campaign=DSD%20blogs%202022&utm_content=223545408&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3740012
+    - 5 datasets (and starter notebooks) for image classification - https://www.linkedin.com/posts/harpreetsahota204_deeplearning-computervision-activity-7033543031341400064-qyDI?utm_source=share&utm_medium=member_ios
 
 - ML writer :writing_hand:
     - https://medium.com/mlearning-ai/generating-sentences-from-keywords-using-transformers-in-nlp-e89f4de5cf6b
