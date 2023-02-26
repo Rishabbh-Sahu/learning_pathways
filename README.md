@@ -262,3 +262,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
     
 - [Data engineering] Inefficient Python programs will degrade your data pipeline performance
     - https://www.linkedin.com/posts/sarah-floris_dataengineering-dataengineer-python-activity-7033462088442253312-K8ZX?utm_source=share&utm_medium=member_ios
+
+- Outlining techniques for improving the training performance of your PyTorch model without compromising its accuracy.
+    - https://www.linkedin.com/posts/sebastianraschka_some-techniques-to-make-your-pytorch-models-activity-7034565471005802496-V9Ck?utm_source=share&utm_medium=member_ios
