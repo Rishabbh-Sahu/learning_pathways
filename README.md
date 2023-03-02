@@ -225,6 +225,7 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
     - How to train ChatGPT - https://www.linkedin.com/feed/update/urn:li:activity:7024476262949625857?utm_source=share&utm_medium=member_ios
     - Code Self attention from scratch - https://www.linkedin.com/posts/sebastianraschka_understanding-the-self-attention-mechanism-activity-7029471702736637952-q2nf?utm_source=share&utm_medium=member_ios
     - Create your own chatbot using the OpenAI library - https://www.linkedin.com/feed/update/urn:li:activity:7034529832700899328?utm_source=share&utm_medium=member_ios
+    - An open source implementation for LLaMA based ChatGPT training process using RHLF - https://www.linkedin.com/posts/sudalairajkumar_llm-foundationalmodels-chatgpt-activity-7036576670476099584-LcVI?utm_source=share&utm_medium=member_ios
 
 - Why does Deep Learning fail on tabular data?
     - https://www.linkedin.com/posts/dusan-stamenkovic-457074179_datascience-data-neuralnetworks-activity-7021473058628452352-ayFJ?utm_source=share&utm_medium=member_ios
