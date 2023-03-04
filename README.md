@@ -39,6 +39,9 @@ https://ai.googleblog.com/2022/04/formnet-beyond-sequential-modeling-for.html
 - SHAP (SHapley Additive exPlanations)
     - https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7037457215653388288-Dh4h?utm_source=share&utm_medium=member_ios
     
+- LIME (Local Interpretable Model-agnostic Explanations)
+    - https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7037101999552684032-KZcn?utm_source=share&utm_medium=member_ios
+
 - A python library for producing fanciful test data
     - https://github.com/cube-drone/silly
     
