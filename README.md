@@ -273,3 +273,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - Outlining techniques for improving the training performance of your PyTorch model without compromising its accuracy.
     - https://www.linkedin.com/posts/sebastianraschka_some-techniques-to-make-your-pytorch-models-activity-7034565471005802496-V9Ck?utm_source=share&utm_medium=member_ios
+
+- Reinforcement Learning: An Introduction
+    - https://www.linkedin.com/feed/update/urn:li:activity:7036534106515468289?utm_source=share&utm_medium=member_ios
