@@ -279,3 +279,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - t-SNE
     - https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7038913883998220289-tv39?utm_source=share&utm_medium=member_ios
+
+- Awesome open data-centric AI
+    - https://github.com/Renumics/awesome-open-data-centric-ai
