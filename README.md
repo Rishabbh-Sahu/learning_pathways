@@ -181,6 +181,9 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 - Bandit-approach for our recommender system
     - https://www.linkedin.com/posts/mirza-klimenta-phd-823398249_multi-armed-bandits-in-python-epsilon-greedy-activity-7009909807558074368-5m_a?utm_source=share&utm_medium=member_ios
 
+Hashing function in recommender system
+    - https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7039275598988361728-M08S?utm_source=share&utm_medium=member_ios
+
 - Ranking problem RecSys
     - https://www.linkedin.com/posts/amarchin_how-to-optimise-rankings-with-cascade-bandits-activity-7009268040764653568-ctRb?utm_source=share&utm_medium=member_ios
 
