@@ -285,3 +285,6 @@ Hashing function in recommender system
 
 - Awesome open data-centric AI
     - https://github.com/Renumics/awesome-open-data-centric-ai
+
+- The Precision-Recall AUC is a much more actionable metric for highly imbalanced data
+    - https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7039638012204384256-YHSZ?utm_source=share&utm_medium=member_ios
