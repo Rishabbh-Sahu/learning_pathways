@@ -83,6 +83,7 @@ https://ai.googleblog.com/2022/04/formnet-beyond-sequential-modeling-for.html
 - Timeseries forecasting library - sktime!
     - https://www.linkedin.com/posts/dipanzan_data-machinelearning-datascience-activity-6978023559562485760-gmbr?utm_source=share&utm_medium=member_ios
     - Holy Grail of forecasting in 30 lines of code - https://www.linkedin.com/posts/activity-7033912189333733376-J3PI?utm_source=share&utm_medium=member_ios
+    - tutorial for multi-variate forecasting - https://www.linkedin.com/posts/niels-rogge-a3b7a3127_multivariate-probabilistic-time-series-forecasting-activity-7041093807597056000-Yuj0?utm_source=share&utm_medium=member_ios
     
 - Timeseries approaches
     - https://www.linkedin.com/posts/danny-butvinik_machinelearning-timeseries-activity-7020985985861586944-O9Rf?utm_source=share&utm_medium=member_ios
