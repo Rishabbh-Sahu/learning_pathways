@@ -291,3 +291,6 @@ Hashing function in recommender system
     - https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7039638012204384256-YHSZ?utm_source=share&utm_medium=member_ios
 
 - For generative models and active learning, Amazon Science has a fantastic video- https://youtu.be/2s_GtmofbyU
+
+- GPT tips -
+    - https://www.linkedin.com/posts/stevenouri_gpt4-activity-7042775117508055040-MzmF?utm_source=share&utm_medium=member_desktop
