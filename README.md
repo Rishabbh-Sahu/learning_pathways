@@ -294,3 +294,4 @@ Hashing function in recommender system
 
 - GPT tips
     - https://www.linkedin.com/posts/stevenouri_gpt4-activity-7042775117508055040-MzmF?utm_source=share&utm_medium=member_desktop
+    - GPT4 will be supercharging ChatGPT but how to leverage its full potential? - https://www.linkedin.com/posts/stevenouri_gpt4-ugcPost-7042382267515621376-nT25?utm_source=share&utm_medium=member_desktop
