@@ -301,5 +301,5 @@ Hashing function in recommender system
 - FREE HuggingFace Course - (https://lnkd.in/exdqcZCE) This course is for anyone who wants to learn Natural Language Processing (NLP)
     - https://www.linkedin.com/posts/svpino_here-is-a-free-course-you-cant-miss-the-activity-7040652670092599296-cqz2?utm_source=share&utm_medium=member_ios
 
-𝐌𝐚𝐬𝐭𝐞𝐫𝐢𝐧𝐠 𝐔𝐧𝐬𝐮𝐩𝐞𝐫𝐯𝐢𝐬𝐞𝐝 𝐀𝐧𝐨𝐦𝐚𝐥𝐲 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧: 𝟐𝟎 𝐓𝐨𝐩 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬, 𝐄𝐯𝐚𝐥𝐮𝐚𝐭𝐢𝐨𝐧 𝐌𝐞𝐭𝐫𝐢𝐜𝐬 𝐚𝐧𝐝 𝐏𝐲𝐭𝐡𝐨𝐧 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬
-- https://www.linkedin.com/posts/maryammiradi_machinelearning-artificialintelligence-ai-activity-7044261452110516224-kbMf?utm_source=share&utm_medium=member_ios
+- 𝐌𝐚𝐬𝐭𝐞𝐫𝐢𝐧𝐠 𝐔𝐧𝐬𝐮𝐩𝐞𝐫𝐯𝐢𝐬𝐞𝐝 𝐀𝐧𝐨𝐦𝐚𝐥𝐲 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧: 𝟐𝟎 𝐓𝐨𝐩 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬, 𝐄𝐯𝐚𝐥𝐮𝐚𝐭𝐢𝐨𝐧 𝐌𝐞𝐭𝐫𝐢𝐜𝐬 𝐚𝐧𝐝 𝐏𝐲𝐭𝐡𝐨𝐧 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬
+    - https://www.linkedin.com/posts/maryammiradi_machinelearning-artificialintelligence-ai-activity-7044261452110516224-kbMf?utm_source=share&utm_medium=member_ios
