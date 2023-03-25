@@ -32,6 +32,7 @@ https://ai.googleblog.com/2022/04/formnet-beyond-sequential-modeling-for.html
     - 3 ways of explaining 🤗(HF) models - https://www.linkedin.com/posts/rajistics_how-to-explain-predictions-from-transformer-activity-6965755799847530496-qPN9?utm_source=linkedin_share&utm_medium=ios_app
     - 𝐌𝐋 𝐄𝐱𝐩𝐥𝐚𝐢𝐧𝐚𝐛𝐢𝐥𝐢𝐭𝐲 𝐒𝐭𝐚𝐧𝐟𝐨𝐫𝐝 𝐰𝐨𝐫𝐤𝐬𝐡𝐨𝐩 - https://www.linkedin.com/posts/rami-krispin_machinelearning-ml-deeplearning-activity-7001184169494032384-k15M?utm_source=share&utm_medium=member_ios
     - A guide for making black box model explainable - https://www.linkedin.com/posts/christoph-molnar_interpretable-machine-learning-activity-7021025855199961088-r_gs?utm_source=share&utm_medium=member_ios
+    - Explainable AI in Swiggy - https://www.linkedin.com/posts/soumyajyoti-banerjee-034aa153_we-hate-black-boxespart-i-activity-7045302991452520448-OkkG?utm_source=share&utm_medium=member_desktop
 
 - Learn how to explain any black-box model to non-technical people with Bex T's post.
     - https://www.linkedin.com/posts/towards-data-science_a-complete-shap-tutorial-how-to-explain-activity-6988524164403908608-8n2l?utm_source=share&utm_medium=member_ios
