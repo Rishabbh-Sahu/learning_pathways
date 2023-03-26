@@ -304,3 +304,6 @@ Hashing function in recommender system
 
 - 𝐌𝐚𝐬𝐭𝐞𝐫𝐢𝐧𝐠 𝐔𝐧𝐬𝐮𝐩𝐞𝐫𝐯𝐢𝐬𝐞𝐝 𝐀𝐧𝐨𝐦𝐚𝐥𝐲 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧: 𝟐𝟎 𝐓𝐨𝐩 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬, 𝐄𝐯𝐚𝐥𝐮𝐚𝐭𝐢𝐨𝐧 𝐌𝐞𝐭𝐫𝐢𝐜𝐬 𝐚𝐧𝐝 𝐏𝐲𝐭𝐡𝐨𝐧 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬
     - https://www.linkedin.com/posts/maryammiradi_machinelearning-artificialintelligence-ai-activity-7044261452110516224-kbMf?utm_source=share&utm_medium=member_ios
+
+- MRMR (Minimum-Redundancy-Maximum-Relevance) is an efficient feature selection method that proved to work extremely well for automatic feature selection at scale.
+    - https://www.linkedin.com/posts/samuelemazzanti_smazzantimrmr-activity-7045303295879356416-MdM8?utm_source=share&utm_medium=member_desktop
