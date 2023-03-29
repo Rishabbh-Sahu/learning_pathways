@@ -307,3 +307,6 @@ Hashing function in recommender system
 
 - MRMR (Minimum-Redundancy-Maximum-Relevance) is an efficient feature selection method that proved to work extremely well for automatic feature selection at scale.
     - https://www.linkedin.com/posts/samuelemazzanti_smazzantimrmr-activity-7045303295879356416-MdM8?utm_source=share&utm_medium=member_desktop
+    
+- Finetune large language models on single consumer GPUs
+    - https://www.linkedin.com/posts/sebastianraschka_languagemodels-deeplearning-ai-activity-7046837051211583488-wkcE?utm_source=share&utm_medium=member_ios
