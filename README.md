@@ -310,3 +310,6 @@ Hashing function in recommender system
     
 - Finetune large language models on single consumer GPUs
     - https://www.linkedin.com/posts/sebastianraschka_languagemodels-deeplearning-ai-activity-7046837051211583488-wkcE?utm_source=share&utm_medium=member_ios
+
+- Running GPT on your laptop is now possible thanks to GPT4All
+    - https://www.linkedin.com/posts/hajar-mousannif_ml-ai-aiot-activity-7047111968347820033-P75p?utm_source=share&utm_medium=member_ios
