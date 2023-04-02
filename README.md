@@ -313,3 +313,6 @@ Hashing function in recommender system
 
 - Running GPT on your laptop is now possible thanks to GPT4All
     - https://www.linkedin.com/posts/hajar-mousannif_ml-ai-aiot-activity-7047111968347820033-P75p?utm_source=share&utm_medium=member_ios
+ 
+- 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐅𝐫𝐨𝐦 𝐒𝐜𝐫𝐚𝐭𝐜𝐡 𝐔𝐬𝐢𝐧𝐠 𝐍𝐮𝐦𝐏𝐲 𝐚𝐧𝐝 𝐏𝐲𝐭𝐡𝐨𝐧 
+    - https://www.linkedin.com/feed/update/urn:li:activity:7048317846677803009?utm_source=share&utm_medium=member_desktop
