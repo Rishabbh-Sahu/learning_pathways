@@ -299,6 +299,9 @@ Hashing function in recommender system
     - GPT4 will be supercharging ChatGPT but how to leverage its full potential? - https://www.linkedin.com/posts/stevenouri_gpt4-ugcPost-7042382267515621376-nT25?utm_source=share&utm_medium=member_desktop
     - So far the best and the cheapest #chatgpt competitor local implementation, very fast output on a 2020 M1 Macbook Air - https://www.linkedin.com/posts/liuhongliang_chatgpt-activity-7042212001267269632-iaSL?utm_source=share&utm_medium=member_desktop (edited) 
 
+- Today, most Large Language Models are aligned to human expectations with Reinforcement Learning from Human Feedback (RLHF).
+    - https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7046869965580210176-hnaj?utm_source=share&utm_medium=member_ios
+
 - FREE HuggingFace Course - (https://lnkd.in/exdqcZCE) This course is for anyone who wants to learn Natural Language Processing (NLP)
     - https://www.linkedin.com/posts/svpino_here-is-a-free-course-you-cant-miss-the-activity-7040652670092599296-cqz2?utm_source=share&utm_medium=member_ios
 
