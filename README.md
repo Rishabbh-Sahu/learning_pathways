@@ -319,3 +319,6 @@ Hashing function in recommender system
  
 - 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐅𝐫𝐨𝐦 𝐒𝐜𝐫𝐚𝐭𝐜𝐡 𝐔𝐬𝐢𝐧𝐠 𝐍𝐮𝐦𝐏𝐲 𝐚𝐧𝐝 𝐏𝐲𝐭𝐡𝐨𝐧 
     - https://www.linkedin.com/feed/update/urn:li:activity:7048317846677803009?utm_source=share&utm_medium=member_desktop
+
+- Cosine Similarity for 1 Trillion Pairs of Vectors
+    - https://www.linkedin.com/posts/rragundez_cosine-similarity-for-1-trillion-pairs-of-activity-7049218915909935105-PxaS?utm_source=share&utm_medium=member_ios
