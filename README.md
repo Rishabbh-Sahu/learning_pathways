@@ -322,3 +322,6 @@ Hashing function in recommender system
 
 - Cosine Similarity for 1 Trillion Pairs of Vectors
     - https://www.linkedin.com/posts/rragundez_cosine-similarity-for-1-trillion-pairs-of-activity-7049218915909935105-PxaS?utm_source=share&utm_medium=member_ios
+    
+- How does Uber predict ride ETAs?
+    - https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificia[…]143027195904-U2jR?utm_source=share&utm_medium=member_desktop
