@@ -325,3 +325,6 @@ Hashing function in recommender system
     
 - How does Uber predict ride ETAs?
     - https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificia[…]143027195904-U2jR?utm_source=share&utm_medium=member_desktop
+ 
+- How do you deal with imbalanced data?
+    - https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificia[…]098536181760-J3JK?utm_source=share&utm_medium=member_desktop
