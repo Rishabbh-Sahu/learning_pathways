@@ -251,6 +251,9 @@ Hashing function in recommender system
     - One of the Best Python Notes For Interview Preparation by University of Idaho - https://www.linkedin.com/posts/ashishpatel2604_python-notes-ugcPost-7027944399510605824-yZLF?utm_source=share&utm_medium=member_ios
     - `Sourcery`, it's an automated refactoring tool that makes your code elegant, concise, and Pythonic in no time - https://www.linkedin.com/posts/avi-chawla_python-activity-7031942494841942016-yRu0?utm_source=share&utm_medium=member_ios
 
+- Upskill yourself in 2023 with these high-quality FREE courses!
+    - https://www.linkedin.com/posts/stevenouri_artificialintelligence-deeplearning-datasci[…]700518588416-KA2E?utm_source=share&utm_medium=member_desktop
+
 - Microsoft recommender using transformer
     - https://github.com/microsoft/recommenders
 
