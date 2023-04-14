@@ -313,10 +313,13 @@ Hashing function in recommender system
 
 - MRMR (Minimum-Redundancy-Maximum-Relevance) is an efficient feature selection method that proved to work extremely well for automatic feature selection at scale.
     - https://www.linkedin.com/posts/samuelemazzanti_smazzantimrmr-activity-7045303295879356416-MdM8?utm_source=share&utm_medium=member_desktop
-    
+   
 - Finetune large language models on single consumer GPUs
     - https://www.linkedin.com/posts/sebastianraschka_languagemodels-deeplearning-ai-activity-7046837051211583488-wkcE?utm_source=share&utm_medium=member_ios
     - Train a 7B model from scratch on a Single GPU! :exploding_head - https://www.linkedin.com/posts/sanyambhutani_we-can-now-train-a-7b-model-from-scratch-activity-7051736310427918336-2YD1?utm_source=share&utm_medium=member_ios
+
+- Curated list of papers about large language models, especially relating to ChatGPT
+    - https://github.com/Hannibal046/Awesome-LLM?s=31
 
 - Running GPT on your laptop is now possible thanks to GPT4All
     - https://www.linkedin.com/posts/hajar-mousannif_ml-ai-aiot-activity-7047111968347820033-P75p?utm_source=share&utm_medium=member_ios
