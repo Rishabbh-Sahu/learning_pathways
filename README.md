@@ -317,6 +317,7 @@ Hashing function in recommender system
 - Finetune large language models on single consumer GPUs
     - https://www.linkedin.com/posts/sebastianraschka_languagemodels-deeplearning-ai-activity-7046837051211583488-wkcE?utm_source=share&utm_medium=member_ios
     - Train a 7B model from scratch on a Single GPU! :exploding_head - https://www.linkedin.com/posts/sanyambhutani_we-can-now-train-a-7b-model-from-scratch-activity-7051736310427918336-2YD1?utm_source=share&utm_medium=member_ios
+    - LLMs to build a simple assistant - https://www.linkedin.com/posts/eugeneyan_experimenting-with-llms-to-research-reflect-[…]836878950400-lcDT?utm_source=share&utm_medium=member_desktop
 
 - Curated list of papers about large language models, especially relating to ChatGPT
     - https://github.com/Hannibal046/Awesome-LLM?s=31
