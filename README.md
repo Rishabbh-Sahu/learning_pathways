@@ -253,6 +253,7 @@ Hashing function in recommender system
 
 - Upskill yourself in 2023 with these high-quality FREE courses!
     - https://www.linkedin.com/posts/stevenouri_artificialintelligence-deeplearning-datasci[…]700518588416-KA2E?utm_source=share&utm_medium=member_desktop
+    - Top Free Courses of Large Language Models by World Biggest University - https://www.linkedin.com/posts/ashishpatel2604_largelanguagemodels-artificialintelligence-activity-7054669918599790592-rZ42?utm_source=share&utm_medium=member_ios
 
 - Microsoft recommender using transformer
     - https://github.com/microsoft/recommenders
