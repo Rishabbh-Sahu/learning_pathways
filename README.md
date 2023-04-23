@@ -324,6 +324,7 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
     - LLMs to build a simple assistant - https://www.linkedin.com/posts/eugeneyan_experimenting-with-llms-to-research-reflect-[…]836878950400-lcDT?utm_source=share&utm_medium=member_desktop
     - Truly open-source and the world's first truly open instruction-tuned LLM!- https://www.linkedin.com/posts/maziyarpanahi_say-hello-to-dolly-v2-truly-open-source-ugcPost-7052922568273465344-C5E6?utm_source=share&utm_medium=member_ios
     - Another LLM that can be used commercially - https://github.com/stability-AI/stableLM/
+    - You can now train and run you own LLM locally! GPT4All-J - https://www.linkedin.com/posts/liorsinclair_you-can-now-train-and-run-you-own-llm-locally-activity-7054846251082625024-_Xt3?utm_source=share&utm_medium=member_ios
 
 - Curated list of papers about large language models, especially relating to ChatGPT
     - https://github.com/Hannibal046/Awesome-LLM?s=31
