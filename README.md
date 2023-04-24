@@ -267,7 +267,7 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 - Prompt Engineering
     - https://www.linkedin.com/posts/sudalairajkumar_promptengineering-activity-7029420526498447360-rQ3q?utm_source=share&utm_medium=member_ios
     - Overview - https://www.linkedin.com/posts/omarsar_machinelearning-deeplearning-ai-activity-7033122973544763392-D1dK?utm_source=share&utm_medium=member_ios
-    - Blind prompting = :woman-shrugging:. Prompt engineering = :female-scientist:. If you plan to use LLMs in production, this is a must-read:interrobang: :rocket: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_blind-prompting-prompt-engineering-activity-7055942829604270081-stj3?utm_source=share&utm_medium=member_ios
+    - Blind prompting =:woman_shrugging: Prompt engineering =👩‍🔬 If you plan to use LLMs in production, this is a must-read:interrobang: :rocket: https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_blind-prompting-prompt-engineering-activity-7055942829604270081-stj3?utm_source=share&utm_medium=member_ios
 
 - Promptify, a library that allows for the use of #LLMs to solve #NLP problems, including #NamedEntity Recognition, #Binary Classification, #MultiLabel Classification, and Question-Answering and return a python object
     - https://www.linkedin.com/posts/aadityaura_prompt-gpt-opensource-activity-7024485145256591360-etIo?utm_source=share&utm_medium=member_ios
