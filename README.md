@@ -344,3 +344,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
  
 - How do you deal with imbalanced data?
     - https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificia[…]098536181760-J3JK?utm_source=share&utm_medium=member_desktop
+
+- hyperparameter (HP) tuning is Bayesian Optimization Hyper Band
+    - https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7056291915050143744-bAX0?utm_source=share&utm_medium=member_ios
