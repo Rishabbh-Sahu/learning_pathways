@@ -330,6 +330,9 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 - Curated list of papers about large language models, especially relating to ChatGPT
     - https://github.com/Hannibal046/Awesome-LLM?s=31
 
+- Current open-source ChatGPT alternatives
+    - https://www.linkedin.com/posts/saattrupdan_chatgpt-generativeai-opensource-activity-7055833276703219713-K8-Q?utm_source=share&utm_medium=member_ios
+
 - Running GPT on your laptop is now possible thanks to GPT4All
     - https://www.linkedin.com/posts/hajar-mousannif_ml-ai-aiot-activity-7047111968347820033-P75p?utm_source=share&utm_medium=member_ios
  
