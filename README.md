@@ -333,6 +333,7 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - Current open-source ChatGPT alternatives
     - https://www.linkedin.com/posts/saattrupdan_chatgpt-generativeai-opensource-activity-7055833276703219713-K8-Q?utm_source=share&utm_medium=member_ios
+    - HuggingChat - https://www.linkedin.com/posts/clementdelangue_i-believe-we-need-open-source-alternatives-activity-7056722611371663362-I_Rq?utm_source=share&utm_medium=member_ios
 
 - Running GPT on your laptop is now possible thanks to GPT4All
     - https://www.linkedin.com/posts/hajar-mousannif_ml-ai-aiot-activity-7047111968347820033-P75p?utm_source=share&utm_medium=member_ios
