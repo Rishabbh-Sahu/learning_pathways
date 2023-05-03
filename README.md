@@ -358,3 +358,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - Hyperparameter (HP) tuning is Bayesian Optimization Hyper Band
     - https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7056291915050143744-bAX0?utm_source=share&utm_medium=member_ios
+  
+- Deploying your ML model
+    - https://www.linkedin.com/posts/khuyen-tran-1401_automate-machine-learning-deployment-with-activity-7058088609752510466-uEt_?utm_source=share&utm_medium=member_ios
