@@ -335,6 +335,8 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
     
 - Curated list of papers about large language models, especially relating to ChatGPT
     - https://github.com/Hannibal046/Awesome-LLM?s=31
+- StarCoder :star:, the biggest open-source Code-LLM :robot_face:.
+    - https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_bigcode-chatgpt-copilot-activity-7059941239277678592-hUmn?utm_source=share&utm_medium=member_ios
 
 - Current open-source ChatGPT alternatives
     - https://www.linkedin.com/posts/saattrupdan_chatgpt-generativeai-opensource-activity-7055833276703219713-K8-Q?utm_source=share&utm_medium=member_ios
@@ -361,3 +363,4 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
   
 - Deploying your ML model
     - https://www.linkedin.com/posts/khuyen-tran-1401_automate-machine-learning-deployment-with-activity-7058088609752510466-uEt_?utm_source=share&utm_medium=member_ios
+
