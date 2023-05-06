@@ -364,3 +364,5 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 - Deploying your ML model
     - https://www.linkedin.com/posts/khuyen-tran-1401_automate-machine-learning-deployment-with-activity-7058088609752510466-uEt_?utm_source=share&utm_medium=member_ios
 
+- Machine Learning advancements in the leading industry (blogs and links)
+    - https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7059914026977247232-v6YY?utm_source=share&utm_medium=member_ios
