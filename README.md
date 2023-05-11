@@ -372,3 +372,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - Machine Learning advancements in the leading industry (blogs and links)
     - https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7059914026977247232-v6YY?utm_source=share&utm_medium=member_ios
+
+- Testing code that relies on external services, like a database
+    - https://www.linkedin.com/posts/khuyen-tran-1401_python-testing-activity-7061708578537021440-8ae9?utm_source=share&utm_medium=member_ios
