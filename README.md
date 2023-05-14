@@ -336,6 +336,7 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - Explores the exciting use cases of #LangChain and #ChatGPT
     - https://www.linkedin.com/posts/pradipnichite_building-chatbot-using-langchain-and-chatgpt-activity-7058312972267380736-r1i3?utm_source=share&utm_medium=member_ios
+    - LangChain - https://www.linkedin.com/posts/sonali-pattnaik_generativeai-ai-activity-7063160223967973376-3K0P?utm_source=share&utm_medium=member_ios
     
 - Curated list of papers about large language models, especially relating to ChatGPT
     - https://github.com/Hannibal046/Awesome-LLM?s=31
