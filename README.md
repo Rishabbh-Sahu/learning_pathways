@@ -205,6 +205,9 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 - Math for Machine Learning and Data Science
     - https://www.linkedin.com/posts/andrewyng_mathematics-for-machine-learning-and-data-activity-7008888767176474624-t002?utm_source=share&utm_medium=member_ios
 
+- 𝗖𝗵𝗲𝗰𝗸 𝗢𝗻𝗲 𝗼𝗳 𝘁𝗵𝗲 𝗕𝗲𝘀𝘁 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗕𝗼𝗼𝗸𝘀!
+    - https://www.linkedin.com/posts/giannis-tolios_datascience-python-machinelearning-activity-7060620878262280192-VKfq?utm_source=share&utm_medium=member_ios
+
 - Awesome Machine Learning cheatsheets from Stanford's CS 229
     - https://www.linkedin.com/posts/stevenouri_artificialintelligence-datascience-machinelearning-activity-7009452208509304832-i013?utm_source=share&utm_medium=member_ios
 
