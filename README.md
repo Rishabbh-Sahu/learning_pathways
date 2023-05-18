@@ -334,6 +334,7 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
     - You can now train and run you own LLM locally! GPT4All-J - https://www.linkedin.com/posts/liorsinclair_you-can-now-train-and-run-you-own-llm-locally-activity-7054846251082625024-_Xt3?utm_source=share&utm_medium=member_ios
     - Try this for prototype which provides a central interface to connect your LLM's with external data - https://github.com/jerryjliu/llama_index
     - The secret recipe for making Chat based models work :female-cook - https://www.linkedin.com/posts/sanyambhutani_the-secret-recipe-for-making-chat-based-models-activity-7060254012935139328-pPfP?utm_source=share&utm_medium=member_ios
+    - Outperforming LLMs with 2000x smaller models! :rocket: - https://www.linkedin.com/posts/sanyambhutani_outperforming-llms-with-2000x-smaller-models-activity-7060977553104134144-1gRH?utm_source=share&utm_medium=member_ios
 
 - Explores the exciting use cases of #LangChain and #ChatGPT
     - https://www.linkedin.com/posts/pradipnichite_building-chatbot-using-langchain-and-chatgpt-activity-7058312972267380736-r1i3?utm_source=share&utm_medium=member_ios
