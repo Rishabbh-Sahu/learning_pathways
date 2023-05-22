@@ -341,7 +341,9 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 - Explores the exciting use cases of #LangChain and #ChatGPT
     - https://www.linkedin.com/posts/pradipnichite_building-chatbot-using-langchain-and-chatgpt-activity-7058312972267380736-r1i3?utm_source=share&utm_medium=member_ios
     - LangChain - https://www.linkedin.com/posts/sonali-pattnaik_generativeai-ai-activity-7063160223967973376-3K0P?utm_source=share&utm_medium=member_ios
-    
+
+- Sklearn Meets Large Language Models. It allows you to integrate language models like ChatGPT into scikit-learn for text analysis tasks - https://www.linkedin.com/posts/liorsinclair_just-found-out-about-scikit-llm-sklearn-activity-7066464504666013696-l-rc?utm_source=share&utm_medium=member_desktop
+
 - Curated list of papers about large language models, especially relating to ChatGPT
     - https://github.com/Hannibal046/Awesome-LLM?s=31
 - StarCoder :star:, the biggest open-source Code-LLM :robot_face:.
