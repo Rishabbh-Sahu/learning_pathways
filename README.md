@@ -259,6 +259,7 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
     - `Sourcery`, it's an automated refactoring tool that makes your code elegant, concise, and Pythonic in no time - https://www.linkedin.com/posts/avi-chawla_python-activity-7031942494841942016-yRu0?utm_source=share&utm_medium=member_ios
     - Top 25 pandas trickshttps : https://youtu.be/RlIiVeig3hc
     - Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational - https://www.linkedin.com/posts/tunguz_datascience-artificialintelligence-generativeai-activity-7061317742380945408-GBih?utm_source=share&utm_medium=member_ios
+    - Python Code Optimization - https://www.kaggle.com/code/youssef19/python-code-optimization-for-data-scientists/notebook
 
 - Upskill yourself in 2023 with these high-quality FREE courses!
     - https://www.linkedin.com/posts/stevenouri_artificialintelligence-deeplearning-datasci[…]700518588416-KA2E?utm_source=share&utm_medium=member_desktop
