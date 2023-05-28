@@ -293,6 +293,8 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
     
 - [Data engineering] Inefficient Python programs will degrade your data pipeline performance
     - https://www.linkedin.com/posts/sarah-floris_dataengineering-dataengineer-python-activity-7033462088442253312-K8ZX?utm_source=share&utm_medium=member_ios
+    - Deploying your ML model - https://www.linkedin.com/posts/khuyen-tran-1401_automate-machine-learning-deployment-with-activity-7058088609752510466-uEt_?utm_source=share&utm_medium=member_ios
+    - Complete Jenkins Course - https://www.linkedin.com/posts/ann-afamefuna_like-share-devop-activity-7064181148456747009-sFtx?utm_source=share&utm_medium=member_ios
 
 - Outlining techniques for improving the training performance of your PyTorch model without compromising its accuracy.
     - https://www.linkedin.com/posts/sebastianraschka_some-techniques-to-make-your-pytorch-models-activity-7034565471005802496-V9Ck?utm_source=share&utm_medium=member_ios
@@ -378,12 +380,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - Hyperparameter (HP) tuning is Bayesian Optimization Hyper Band
     - https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7056291915050143744-bAX0?utm_source=share&utm_medium=member_ios
-  
-- Deploying your ML model
-    - https://www.linkedin.com/posts/khuyen-tran-1401_automate-machine-learning-deployment-with-activity-7058088609752510466-uEt_?utm_source=share&utm_medium=member_ios
-
-- Complete Jenkins Course
-    - https://www.linkedin.com/posts/ann-afamefuna_like-share-devop-activity-7064181148456747009-sFtx?utm_source=share&utm_medium=member_ios
 
 - Machine Learning advancements in the leading industry (blogs and links)
     - https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7059914026977247232-v6YY?utm_source=share&utm_medium=member_ios
