@@ -152,6 +152,7 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
     - https://www.linkedin.com/posts/damienbenveniste_machinelearning-mlops-datascience-activity-6993598745867157506-90qh?utm_source=share&utm_medium=member_ios
     - MLOps engineers and full stack data scientists! - https://www.linkedin.com/posts/bechir-trabelsi-652a3914a_github-googlecloudplatformml[…]165138919424-BwNK?utm_source=share&utm_medium=member_desktop
     - Data engineering or MLOps - https://www.linkedin.com/posts/benjaminrogojan_are-you-trying-to-learn-about-data-engineering-activity-7065536405120159744-AlLj?utm_source=share&utm_medium=member_ios
+    - Complete Jenkins Course - https://www.linkedin.com/posts/ann-afamefuna_like-share-devop-activity-7064181148456747009-sFtx?utm_source=share&utm_medium=member_ios
 
 - Pre-training with quality data
     - https://www.linkedin.com/posts/hanspeterzorn_pretraining-language-models-quality-over-activity-6993843947735252992-thxD?utm_source=share&utm_medium=member_ios
@@ -294,7 +295,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 - [Data engineering] Inefficient Python programs will degrade your data pipeline performance
     - https://www.linkedin.com/posts/sarah-floris_dataengineering-dataengineer-python-activity-7033462088442253312-K8ZX?utm_source=share&utm_medium=member_ios
     - Deploying your ML model - https://www.linkedin.com/posts/khuyen-tran-1401_automate-machine-learning-deployment-with-activity-7058088609752510466-uEt_?utm_source=share&utm_medium=member_ios
-    - Complete Jenkins Course - https://www.linkedin.com/posts/ann-afamefuna_like-share-devop-activity-7064181148456747009-sFtx?utm_source=share&utm_medium=member_ios
 
 - Outlining techniques for improving the training performance of your PyTorch model without compromising its accuracy.
     - https://www.linkedin.com/posts/sebastianraschka_some-techniques-to-make-your-pytorch-models-activity-7034565471005802496-V9Ck?utm_source=share&utm_medium=member_ios
