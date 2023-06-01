@@ -153,6 +153,7 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
     - MLOps engineers and full stack data scientists! - https://www.linkedin.com/posts/bechir-trabelsi-652a3914a_github-googlecloudplatformml[…]165138919424-BwNK?utm_source=share&utm_medium=member_desktop
     - Data engineering or MLOps - https://www.linkedin.com/posts/benjaminrogojan_are-you-trying-to-learn-about-data-engineering-activity-7065536405120159744-AlLj?utm_source=share&utm_medium=member_ios
     - Complete Jenkins Course - https://www.linkedin.com/posts/ann-afamefuna_like-share-devop-activity-7064181148456747009-sFtx?utm_source=share&utm_medium=member_ios
+    - how to design, implement, and deploy an ML system using MLOps good practices - https://www.linkedin.com/feed/update/urn:li:activity:7059421414784720897?utm_source=share&utm_medium=member_ios
 
 - Pre-training with quality data
     - https://www.linkedin.com/posts/hanspeterzorn_pretraining-language-models-quality-over-activity-6993843947735252992-thxD?utm_source=share&utm_medium=member_ios
