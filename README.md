@@ -262,6 +262,7 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
     - Top 25 pandas trickshttps : https://youtu.be/RlIiVeig3hc
     - Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational - https://www.linkedin.com/posts/tunguz_datascience-artificialintelligence-generativeai-activity-7061317742380945408-GBih?utm_source=share&utm_medium=member_ios
     - Python Code Optimization - https://www.kaggle.com/code/youssef19/python-code-optimization-for-data-scientists/notebook
+    - Jupyter notebook data frame - https://www.linkedin.com/posts/avi-chawla_pandas-datascience-activity-7070701001980223488-t62x?utm_source=share&utm_medium=member_ios
 
 - Upskill yourself in 2023 with these high-quality FREE courses!
     - https://www.linkedin.com/posts/stevenouri_artificialintelligence-deeplearning-datasci[…]700518588416-KA2E?utm_source=share&utm_medium=member_desktop
