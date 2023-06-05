@@ -170,6 +170,7 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 - Free access to machine learning books that give you practical knowledge
     - https://www.linkedin.com/posts/ashishpatel2604_datascientists-machinelearning-artificialintelligence-activity-6999235602076299265--Um5?utm_source=share&utm_medium=member_ios
     - 𝗖𝗵𝗲𝗰𝗸 𝗢𝗻𝗲 𝗼𝗳 𝘁𝗵𝗲 𝗕𝗲𝘀𝘁 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗕𝗼𝗼𝗸𝘀! - https://www.linkedin.com/posts/giannis-tolios_datascience-python-machinelearning-activity-7060620878262280192-VKfq?utm_source=share&utm_medium=member_ios
+    - Best YouTube Channels for Learning Data Science for Free in 2023 - https://www.linkedin.com/posts/youssef-hosni-b2960b135_best-youtube-channels-for-learning-data-science-activity-7053654804144828416-JFAn?utm_source=share&utm_medium=member_ios
 
 - PivotTableJS Python
     - https://www.linkedin.com/posts/avi-chawla_python-datascience-dataanalysis-ugcPost-7000056013911404544-PigM?utm_source=share&utm_medium=member_ios
