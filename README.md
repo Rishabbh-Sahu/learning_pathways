@@ -136,6 +136,7 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - Production model - drifts
     - https://www.linkedin.com/feed/update/urn:li:activity:7028677829483491328?utm_source=share&utm_medium=member_ios
+    - 𝐖𝐡𝐚𝐭 𝐢𝐬 𝐌𝐨𝐝𝐞𝐥 𝐃𝐫𝐢𝐟𝐭 𝐢𝐧 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠? - https://www.linkedin.com/feed/update/urn:li:activity:7046468651683643392?utm_source=share&utm_medium=member_desktop
     
 - Logistic regression
     - https://www.linkedin.com/posts/mdarshad_logistic-regression-ugcPost-6990974615275638784-B4h-?utm_source=share&utm_medium=member_ios
