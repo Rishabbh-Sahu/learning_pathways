@@ -355,6 +355,9 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
     - LangChain is really changing the game when it comes to building applications using LLMs - https://www.linkedin.com/feed/update/urn:li:activity:7066486064898560000?utm_source=share&utm_medium=member_desktop
     - Free generative AI courses - https://www.linkedin.com/feed/update/urn:li:activity:7069751645164765185?utm_source=share&utm_medium=member_ios
 
+- 𝐑𝐞𝐢𝐧𝐟𝐨𝐫𝐜𝐢𝐧𝐠 𝐑𝐞𝐢𝐧𝐟𝐨𝐫𝐜𝐞𝐦𝐞𝐧𝐭 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠: 𝐓𝐨𝐩 𝟐𝟎 𝐏𝐲𝐭𝐡𝐨𝐧 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬 𝐭𝐨 𝐌𝐚𝐱𝐢𝐦𝐢𝐳𝐞 𝐘𝐨𝐮𝐫 𝐑𝐞𝐢𝐧𝐟𝐨𝐫𝐜𝐞𝐦𝐞𝐧𝐭 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐏𝐨𝐭𝐞𝐧𝐭𝐢𝐚𝐥
+    - https://www.linkedin.com/feed/update/urn:li:activity:7066679327395876864?utm_source=share&utm_medium=member_ios
+
 - Sklearn Meets Large Language Models. It allows you to integrate language models like ChatGPT into scikit-learn for text analysis tasks - https://www.linkedin.com/posts/liorsinclair_just-found-out-about-scikit-llm-sklearn-activity-7066464504666013696-l-rc?utm_source=share&utm_medium=member_desktop
 
 - Curated list of papers about large language models, especially relating to ChatGPT
