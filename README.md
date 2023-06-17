@@ -289,6 +289,7 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - A/B testing
     - https://www.linkedin.com/posts/danleedata_ab-testing-in-data-science-interviews-by-activity-7027674504340373504-Y6Hz?utm_source=share&utm_medium=member_ios
+    - leAB library AB test - https://www.linkedin.com/posts/khuyen-tran-1401_python-testing-abtesting-activity-7075484308370591744-LA3p?utm_source=share&utm_medium=member_ios
 
 - SHAP-hypetune is a python package for simultaneous Hyperparameters Tuning and Features Selection for Gradient Boosting Models!
     - https://www.linkedin.com/posts/eric-vyacheslav-156273169_shap-hypetune-is-a-python-package-for-simultaneous-activity-7028014478805876736-EcHJ?utm_source=share&utm_medium=member_ios
