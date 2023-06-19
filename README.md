@@ -206,6 +206,7 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 - Recommender Systems
     - https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7055200272851103744-LM5p?utm_source=share&utm_medium=member_ios
     - Recommender Systems · Evaluation · Metrics · and Loss - https://www.linkedin.com/posts/vinija_recommender-systems-evaluation-metrics-activity-7067002662285676544-aFON?utm_source=share&utm_medium=member_ios
+    - Representing Users and Items in Large Language Models based Recommender Systems - https://www.linkedin.com/posts/reachsumit_representing-users-and-items-in-large-language-activity-7076565350162583553-kCm6?utm_source=share&utm_medium=member_ios
     
 - TOP 5 Linear Regression Models
     - https://www.linkedin.com/feed/update/urn:li:activity:7010588147357036544?utm_source=share&utm_medium=member_ios
