@@ -375,8 +375,10 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
  
 - Federated Learning!
     - https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7061728800211972096-_aIB?utm_source=share&utm_medium=member_ios
+      
 - 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐅𝐫𝐨𝐦 𝐒𝐜𝐫𝐚𝐭𝐜𝐡 𝐔𝐬𝐢𝐧𝐠 𝐍𝐮𝐦𝐏𝐲 𝐚𝐧𝐝 𝐏𝐲𝐭𝐡𝐨𝐧 
     - https://www.linkedin.com/feed/update/urn:li:activity:7048317846677803009?utm_source=share&utm_medium=member_desktop
+    - :rocket: Scikit-Learn Cheatsheet to Machine Learning :robot_face: - https://www.linkedin.com/posts/ginacostag_scikit-learn-cheatsheet-ugcPost-7076565233271463936-BSBE?utm_source=share&utm_medium=member_ios
 
 - Cosine Similarity for 1 Trillion Pairs of Vectors
     - https://www.linkedin.com/posts/rragundez_cosine-similarity-for-1-trillion-pairs-of-activity-7049218915909935105-PxaS?utm_source=share&utm_medium=member_ios
