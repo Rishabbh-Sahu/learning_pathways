@@ -335,6 +335,7 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - 𝐌𝐚𝐬𝐭𝐞𝐫𝐢𝐧𝐠 𝐔𝐧𝐬𝐮𝐩𝐞𝐫𝐯𝐢𝐬𝐞𝐝 𝐀𝐧𝐨𝐦𝐚𝐥𝐲 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧: 𝟐𝟎 𝐓𝐨𝐩 𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬, 𝐄𝐯𝐚𝐥𝐮𝐚𝐭𝐢𝐨𝐧 𝐌𝐞𝐭𝐫𝐢𝐜𝐬 𝐚𝐧𝐝 𝐏𝐲𝐭𝐡𝐨𝐧 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬
     - https://www.linkedin.com/posts/maryammiradi_machinelearning-artificialintelligence-ai-activity-7044261452110516224-kbMf?utm_source=share&utm_medium=member_ios
+    - 𝐏𝐞𝐫𝐟𝐨𝐫𝐦 𝐦𝐨𝐫𝐞 𝐫𝐨𝐛𝐮𝐬𝐭 𝐎𝐮𝐭𝐥𝐢𝐞𝐫 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧 𝐢𝐧 𝐏𝐲𝐭𝐡𝐨𝐧 - https://www.linkedin.com/posts/banias_python-datascience-machinelearning-activity-7077314236946735104-rGlZ?utm_source=share&utm_medium=member_ios
 
 - Missing values imputations
     - https://www.linkedin.com/feed/update/urn:li:activity:7061274161238663168?utm_source=share&utm_medium=member_ios
