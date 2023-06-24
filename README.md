@@ -381,6 +381,7 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 - 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐅𝐫𝐨𝐦 𝐒𝐜𝐫𝐚𝐭𝐜𝐡 𝐔𝐬𝐢𝐧𝐠 𝐍𝐮𝐦𝐏𝐲 𝐚𝐧𝐝 𝐏𝐲𝐭𝐡𝐨𝐧 
     - https://www.linkedin.com/feed/update/urn:li:activity:7048317846677803009?utm_source=share&utm_medium=member_desktop
     - :rocket: Scikit-Learn Cheatsheet to Machine Learning :robot_face: - https://www.linkedin.com/posts/ginacostag_scikit-learn-cheatsheet-ugcPost-7076565233271463936-BSBE?utm_source=share&utm_medium=member_ios
+    - Machine Learning advancements in the leading industry (blogs and links) - https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7059914026977247232-v6YY?utm_source=share&utm_medium=member_ios
 
 - Cosine Similarity for 1 Trillion Pairs of Vectors
     - https://www.linkedin.com/posts/rragundez_cosine-similarity-for-1-trillion-pairs-of-activity-7049218915909935105-PxaS?utm_source=share&utm_medium=member_ios
@@ -402,9 +403,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - XGBoost 
     - https://www.linkedin.com/feed/update/urn:li:activity:7054123649183727616?utm_source=share&utm_medium=member_ios
-    
-- Machine Learning advancements in the leading industry (blogs and links)
-    - https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7059914026977247232-v6YY?utm_source=share&utm_medium=member_ios
 
 - Testing code that relies on external services, like a database
     - https://www.linkedin.com/posts/khuyen-tran-1401_python-testing-activity-7061708578537021440-8ae9?utm_source=share&utm_medium=member_ios
