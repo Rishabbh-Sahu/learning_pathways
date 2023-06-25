@@ -382,6 +382,7 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
     - https://www.linkedin.com/feed/update/urn:li:activity:7048317846677803009?utm_source=share&utm_medium=member_desktop
     - :rocket: Scikit-Learn Cheatsheet to Machine Learning :robot_face: - https://www.linkedin.com/posts/ginacostag_scikit-learn-cheatsheet-ugcPost-7076565233271463936-BSBE?utm_source=share&utm_medium=member_ios
     - Machine Learning advancements in the leading industry (blogs and links) - https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7059914026977247232-v6YY?utm_source=share&utm_medium=member_ios
+    - do Feature Selection automatically? Try 𝐦𝐫𝐦𝐫. 𝐦𝐫𝐦𝐫 (minimum-Redundancy-Maximum-Relevance) is a minimal-optimal feature selection algorithm at scale. - https://www.linkedin.com/posts/banias_python-datascience-machinelearning-activity-7078039042574934017-kqSd?utm_source=share&utm_medium=member_ios
 
 - Cosine Similarity for 1 Trillion Pairs of Vectors
     - https://www.linkedin.com/posts/rragundez_cosine-similarity-for-1-trillion-pairs-of-activity-7049218915909935105-PxaS?utm_source=share&utm_medium=member_ios
