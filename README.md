@@ -269,8 +269,7 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
     - Jupyter notebook data frame - https://www.linkedin.com/posts/avi-chawla_pandas-datascience-activity-7070701001980223488-t62x?utm_source=share&utm_medium=member_ios
     - leverage interactive controls using IPywidgets - https://www.linkedin.com/feed/update/urn:li:activity:7078795858707673088?utm_source=share&utm_medium=member_ios
     - Drawdata is an open-source library that allows you to draw a 2D dataset in a notebook - https://www.linkedin.com/feed/update/urn:li:activity:7076993142960386049?utm_source=share&utm_medium=member_ios
-    - :rocket: Top 7 GitHub repositories that will help you Master Python :snake:
-https://www.linkedin.com/posts/ginacostag_data-python-artificialintelligence-activity-7037053521413689347-obRZ?utm_source=share&utm_medium=member_ios
+    - :rocket: Top 7 GitHub repositories that will help you Master Python :snake: - https://www.linkedin.com/posts/ginacostag_data-python-artificialintelligence-activity-7037053521413689347-obRZ?utm_source=share&utm_medium=member_ios
 
 - Upskill yourself in 2023 with these high-quality FREE courses!
     - https://www.linkedin.com/posts/stevenouri_artificialintelligence-deeplearning-datasci[…]700518588416-KA2E?utm_source=share&utm_medium=member_desktop
