@@ -115,6 +115,8 @@ https://ai.googleblog.com/2022/04/formnet-beyond-sequential-modeling-for.html
  - Tabular Deep Learning model train 119x faster
     - https://www.linkedin.com/posts/radek-osmulski-6b935794_can-you-make-your-tabular-deep-learning-model-activity-7000268682316701696-874j?utm_source=share&utm_medium=member_ios
 
+- An open-source, diagnostic tool for analyzing Deep Neural Networks (DNN), without needing access to training or even test data - https://www.linkedin.com/posts/prithivirajdamodaran_dont-blindly-reuse-pre-trained-models-from-activity-7082591506200457217-hxEm?utm_source=share&utm_medium=member_ios
+
 - Graph machine learning Airbnb
     - https://www.linkedin.com/posts/juliawallin_graph-machine-learning-at-airbnb-activity-6986686098471071744-0k2x?utm_source=share&utm_medium=member_ios
     - Link Predictions = Binary Classification of node pairs <br>
