@@ -382,6 +382,7 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 - Running GPT on your laptop is now possible thanks to GPT4All
     - https://www.linkedin.com/posts/hajar-mousannif_ml-ai-aiot-activity-7047111968347820033-P75p?utm_source=share&utm_medium=member_ios
     - 100% Private & Local PDF ChatBot (without langchain), Video talks about using falcon series models locally and query it - https://www.youtube.com/watch?v=hSQY4N1u3v0
+    - LLAMA2 - The repo to try this locally, good to see it supports MAC os too (the best part you can use GPU's for the quick inferencing) - https://github.com/ggerganov/llama.cpp (edited) 
  
 - Federated Learning!
     - https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7061728800211972096-_aIB?utm_source=share&utm_medium=member_ios
