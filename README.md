@@ -416,3 +416,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - Testing code that relies on external services, like a database
     - https://www.linkedin.com/posts/khuyen-tran-1401_python-testing-activity-7061708578537021440-8ae9?utm_source=share&utm_medium=member_ios
+
+- Active learning: package scikit-activeml is a Python library for active learning on top of SciPy and scikit-learn
+   - https://github.com/scikit-activeml/scikit-activeml 
