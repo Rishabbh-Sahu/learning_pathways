@@ -159,6 +159,7 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
     - Data engineering or MLOps - https://www.linkedin.com/posts/benjaminrogojan_are-you-trying-to-learn-about-data-engineering-activity-7065536405120159744-AlLj?utm_source=share&utm_medium=member_ios
     - Complete Jenkins Course - https://www.linkedin.com/posts/ann-afamefuna_like-share-devop-activity-7064181148456747009-sFtx?utm_source=share&utm_medium=member_ios
     - how to design, implement, and deploy an ML system using MLOps good practices - https://www.linkedin.com/feed/update/urn:li:activity:7059421414784720897?utm_source=share&utm_medium=member_ios
+    - Top 7 MLOps GitHub Repository - https://www.linkedin.com/posts/youssef-hosni-b2960b135_top-7-mlops-github-repository-mlops-zoomcamp-activity-7089559914351661056-7cVe?utm_source=share&utm_medium=member_ios
 
 - Pre-training with quality data
     - https://www.linkedin.com/posts/hanspeterzorn_pretraining-language-models-quality-over-activity-6993843947735252992-thxD?utm_source=share&utm_medium=member_ios
@@ -255,6 +256,7 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
     - Code Self attention from scratch - https://www.linkedin.com/posts/sebastianraschka_understanding-the-self-attention-mechanism-activity-7029471702736637952-q2nf?utm_source=share&utm_medium=member_ios
     - Create your own chatbot using the OpenAI library - https://www.linkedin.com/feed/update/urn:li:activity:7034529832700899328?utm_source=share&utm_medium=member_ios
     - An open source implementation for LLaMA based ChatGPT training process using RHLF - https://www.linkedin.com/posts/sudalairajkumar_llm-foundationalmodels-chatgpt-activity-7036576670476099584-LcVI?utm_source=share&utm_medium=member_ios
+    - :robot_face: Large Language Model (LLM) Primers | ChatGPT, Prompt Engineering, RLHF - https://www.linkedin.com/posts/amanc_artificialintelligence-machinelearning-ai-activity-7083312744220803072-yjFB?utm_source=share&utm_medium=member_ios
 
 - Why does Deep Learning fail on tabular data?
     - https://www.linkedin.com/posts/dusan-stamenkovic-457074179_datascience-data-neuralnetworks-activity-7021473058628452352-ayFJ?utm_source=share&utm_medium=member_ios
@@ -279,6 +281,7 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
     - https://www.linkedin.com/posts/stevenouri_artificialintelligence-deeplearning-datasci[…]700518588416-KA2E?utm_source=share&utm_medium=member_desktop
     - Top Free Courses of Large Language Models by World Biggest University - https://www.linkedin.com/posts/ashishpatel2604_largelanguagemodels-artificialintelligence-activity-7054669918599790592-rZ42?utm_source=share&utm_medium=member_ios
     - Curated list of top-tier AI courses - https://www.linkedin.com/posts/sebastianraschka_ai-llm-deeplearning-activity-7066750909925511168-scw2?utm_source=share&utm_medium=member_ios
+    - Top 5 courses - https://www.linkedin.com/posts/rahulagwl_youtube-activity-7090533831664885760-wIY9?utm_source=share&utm_medium=member_ios
 
 - Microsoft recommender using transformer
     - https://github.com/microsoft/recommenders
@@ -382,7 +385,11 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 - Running GPT on your laptop is now possible thanks to GPT4All
     - https://www.linkedin.com/posts/hajar-mousannif_ml-ai-aiot-activity-7047111968347820033-P75p?utm_source=share&utm_medium=member_ios
     - 100% Private & Local PDF ChatBot (without langchain), Video talks about using falcon series models locally and query it - https://www.youtube.com/watch?v=hSQY4N1u3v0
-    - LLAMA2 - The repo to try this locally, good to see it supports MAC os too (the best part you can use GPU's for the quick inferencing) - https://github.com/ggerganov/llama.cpp (edited) 
+    - LLAMA2 - The repo to try this locally, good to see it supports MAC os too (the best part you can use GPU's for the quick inferencing) - https://github.com/ggerganov/llama.cpp
+    - how to fine-tune LLMs!- https://www.linkedin.com/posts/akshay-pachaar_lit-gpt-ugcPost-7090663892741144576-33Et?utm_source=share&utm_medium=member_ios
+    - Fine-tune Llama-2 - https://www.linkedin.com/posts/itamar-g1_fine-tune-llama-2-with-a-few-lines-of-code-activity-7087691271275786240-Q7gS?utm_source=share&utm_medium=member_ios
+    - Llama 2 - https://www.linkedin.com/posts/philipp-schmid-a6a2bb196_llama-2-every-resource-you-need-activity-7088184410990092288-nApZ?utm_source=share&utm_medium=member_ios
+    - Train LLMs in just 50 lines of code! - https://m.youtube.com/watch?v=JNMVulH7fCo
  
 - Federated Learning!
     - https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificialintelligence-activity-7061728800211972096-_aIB?utm_source=share&utm_medium=member_ios
@@ -401,6 +408,7 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - Information Gain (IG)
     - https://www.linkedin.com/posts/danny-butvinik_artificialintelligence-machinelearning-activity-7074966254163247104--M-E?utm_source=share&utm_medium=member_ios
+    - Gini index and entropy - https://www.linkedin.com/posts/danny-butvinik_artificialintelligence-patternrecognition-activity-7085122970544664576-XAtn?utm_source=share&utm_medium=member_ios
 
 - How do you deal with imbalanced data?
     - https://www.linkedin.com/posts/damienbenveniste_machinelearning-datascience-artificia[…]098536181760-J3JK?utm_source=share&utm_medium=member_desktop
@@ -418,4 +426,8 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
     - https://www.linkedin.com/posts/khuyen-tran-1401_python-testing-activity-7061708578537021440-8ae9?utm_source=share&utm_medium=member_ios
 
 - Active learning: package scikit-activeml is a Python library for active learning on top of SciPy and scikit-learn
-   - https://github.com/scikit-activeml/scikit-activeml 
+   - https://github.com/scikit-activeml/scikit-activeml
+ 
+- Prediction ≠ Estimation
+    - https://www.linkedin.com/posts/venkat-raman-analytics_statistics-datascience-econometrics-activity-7084057235567349761-a7_d?utm_source=share&utm_medium=member_ios
+
