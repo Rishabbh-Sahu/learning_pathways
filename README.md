@@ -431,3 +431,5 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 - Prediction ≠ Estimation
     - https://www.linkedin.com/posts/venkat-raman-analytics_statistics-datascience-econometrics-activity-7084057235567349761-a7_d?utm_source=share&utm_medium=member_ios
 
+- Chebyshev distance
+    - https://www.linkedin.com/posts/mehdihamedi_machinelearning-distance-chess-activity-7087454692628119555-1GZY?utm_source=share&utm_medium=member_ios
