@@ -433,3 +433,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - Chebyshev distance
     - https://www.linkedin.com/posts/mehdihamedi_machinelearning-distance-chess-activity-7087454692628119555-1GZY?utm_source=share&utm_medium=member_ios
+
+- Generalized Linear Models
+    - https://www.linkedin.com/posts/arnab-biswas-67083b225_statistics-datascience-glm-activity-7087149608069455872-2kI0?utm_source=share&utm_medium=member_ios
