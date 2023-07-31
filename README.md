@@ -160,6 +160,7 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
     - Complete Jenkins Course - https://www.linkedin.com/posts/ann-afamefuna_like-share-devop-activity-7064181148456747009-sFtx?utm_source=share&utm_medium=member_ios
     - how to design, implement, and deploy an ML system using MLOps good practices - https://www.linkedin.com/feed/update/urn:li:activity:7059421414784720897?utm_source=share&utm_medium=member_ios
     - Top 7 MLOps GitHub Repository - https://www.linkedin.com/posts/youssef-hosni-b2960b135_top-7-mlops-github-repository-mlops-zoomcamp-activity-7089559914351661056-7cVe?utm_source=share&utm_medium=member_ios
+    - MLOps 8 week course - https://www.linkedin.com/posts/deshwalmahesh_mlops-deployment-serving-activity-7091635477732061184-_tQL?utm_source=share&utm_medium=member_ios
 
 - Pre-training with quality data
     - https://www.linkedin.com/posts/hanspeterzorn_pretraining-language-models-quality-over-activity-6993843947735252992-thxD?utm_source=share&utm_medium=member_ios
