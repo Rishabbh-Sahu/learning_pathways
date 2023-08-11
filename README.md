@@ -366,11 +366,15 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
     - The secret recipe for making Chat based models work 👩‍🍳 - https://www.linkedin.com/posts/sanyambhutani_the-secret-recipe-for-making-chat-based-models-activity-7060254012935139328-pPfP?utm_source=share&utm_medium=member_ios
     - Outperforming LLMs with 2000x smaller models! :rocket: - https://www.linkedin.com/posts/sanyambhutani_outperforming-llms-with-2000x-smaller-models-activity-7060977553104134144-1gRH?utm_source=share&utm_medium=member_ios
 
+- Challenges of LLM deployment on premises in seldon: (Seldon - LLMOps for Enterprise: Key Challenges when Deploying for Production)
+    - https://www.seldon.io/webinar/llmops-for-enterprise-key-challenges-when-deploying-for-production-3
+
 - Explores the exciting use cases of #LangChain and #ChatGPT
     - https://www.linkedin.com/posts/pradipnichite_building-chatbot-using-langchain-and-chatgpt-activity-7058312972267380736-r1i3?utm_source=share&utm_medium=member_ios
     - LangChain - https://www.linkedin.com/posts/sonali-pattnaik_generativeai-ai-activity-7063160223967973376-3K0P?utm_source=share&utm_medium=member_ios
     - LangChain is really changing the game when it comes to building applications using LLMs - https://www.linkedin.com/feed/update/urn:li:activity:7066486064898560000?utm_source=share&utm_medium=member_desktop
     - Free generative AI courses - https://www.linkedin.com/feed/update/urn:li:activity:7069751645164765185?utm_source=share&utm_medium=member_ios
+    - A prompting tool : https://github.com/microsoft/guidance
 
 - Sklearn Meets Large Language Models. It allows you to integrate language models like ChatGPT into scikit-learn for text analysis tasks - https://www.linkedin.com/posts/liorsinclair_just-found-out-about-scikit-llm-sklearn-activity-7066464504666013696-l-rc?utm_source=share&utm_medium=member_desktop
 
