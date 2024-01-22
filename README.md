@@ -442,3 +442,6 @@ https://www.linkedin.com/posts/philipp-brunenberg_link-predictions-with-neo4j-gd
 
 - Generalized Linear Models
     - https://www.linkedin.com/posts/arnab-biswas-67083b225_statistics-datascience-glm-activity-7087149608069455872-2kI0?utm_source=share&utm_medium=member_ios
+ 
+- 5-week Software Engineering crash course curriculum designed specifically for Data Scientists and Machine Learning Engineers
+    - https://www.linkedin.com/posts/jackblandin_softwareengineering-machinelearning-datascience-activity-7155189899581661184-VAJF?utm_source=share&utm_medium=member_desktop
